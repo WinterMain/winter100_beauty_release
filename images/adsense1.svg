@@ -1,0 +1,416 @@
+<svg width="256" height="250.00000000000003" xmlns="http://www.w3.org/2000/svg" version="1.1" template-width="256" template-height="250" sillyvg="true" node-id="1">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_8" node-id="1056">
+   <path id="svg_9" target-y="82.7" target-x="28.3" target-width="103.2" target-height="131.7" node-id="327" group-id="3" fill-rule="nonzero" fill="#ffffff" d="m28.3,82.7l103.2,0l0,131.7l-103.2,0l0,-131.7z"/>
+   <g id="svg_10" node-id="1065">
+    <g id="svg_11" node-id="1116">
+     <path id="svg_12" target-y="82.7" target-x="28.3" target-width="138" target-height="134.2" node-id="333" group-id="3,12,63" fill-rule="nonzero" fill-opacity="0.33" fill="#ffffff" d="m28.3,82.7l138,0l0,134.2l-138,0l0,-134.2z"/>
+     <path id="svg_13" target-y="81.2" target-x="26.8" target-width="141" target-height="137.2" node-id="335" group-id="3,12,63" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m166.3,218.4l-138,0l-1,-0.5l-0.5,-1l0,-134.2l0.2,-0.6l0.8,-0.8l138.5,-0.1l1,0.4l0.5,1.1l0,134.2l-0.5,1l-1,0.5zm-136.5,-3l135,0l0,-131.2l-135,0l0,131.2z"/>
+    </g>
+    <g id="svg_14" node-id="1117">
+     <path id="svg_15" target-y="128.8" target-x="120.5" target-width="14.89999" target-height="23" node-id="340" group-id="3,12,64" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m120.5,128.8l14.9,0l0,23l-14.9,0l0,-23z"/>
+     <path id="svg_16" target-y="127.3" target-x="119" target-width="17.89999" target-height="26" node-id="342" group-id="3,12,64" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m135.4,153.3l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.6l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.6,0.1l0.8,0.8l0.1,23.6l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-20l-11.9,0l0,20z"/>
+    </g>
+    <g id="svg_17" node-id="1118">
+     <path id="svg_18" target-y="157.4" target-x="120.5" target-width="14.89999" target-height="22.90001" node-id="347" group-id="3,12,65" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m120.5,157.4l14.9,0l0,22.9l-14.9,0l0,-22.9z"/>
+     <path id="svg_19" target-y="155.9" target-x="119" target-width="17.89999" target-height="25.90001" node-id="349" group-id="3,12,65" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m135.4,181.8l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.6,0.1l0.8,0.8l0.1,23.5l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-19.9l-11.9,0l0,19.9z"/>
+    </g>
+    <g id="svg_20" node-id="1119">
+     <path id="svg_21" target-y="99.8" target-x="99.6" target-width="14.9" target-height="23.39999" node-id="354" group-id="3,12,66" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m99.6,99.8l14.9,0l0,23.4l-14.9,0l0,-23.4z"/>
+     <path id="svg_22" target-y="98.3" target-x="98.1" target-width="17.9" target-height="26.39999" node-id="356" group-id="3,12,66" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m114.5,124.7l-14.9,0l-0.6,-0.2l-0.8,-0.7l-0.1,-24l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.5,0.1l0.8,0.8l0.2,24l-0.5,1l-1,0.5zm-13.4,-3l11.9,0l0,-20.4l-11.9,0l0,20.4z"/>
+    </g>
+    <g id="svg_23" node-id="1120">
+     <path id="svg_24" target-y="128.8" target-x="99.6" target-width="14.9" target-height="23" node-id="361" group-id="3,12,67" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m99.6,128.8l14.9,0l0,23l-14.9,0l0,-23z"/>
+     <path id="svg_25" target-y="127.3" target-x="98.1" target-width="17.9" target-height="26" node-id="363" group-id="3,12,67" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m114.5,153.3l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.6l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.5,0.1l0.8,0.8l0.2,23.6l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-20l-11.9,0l0,20z"/>
+    </g>
+    <g id="svg_26" node-id="1121">
+     <path id="svg_27" target-y="128.8" target-x="141.5" target-width="17.39999" target-height="23" node-id="368" group-id="3,12,68" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m141.5,128.8l17.4,0l0,23l-17.4,0l0,-23z"/>
+     <path id="svg_28" target-y="127.3" target-x="140" target-width="20.39999" target-height="26" node-id="370" group-id="3,12,68" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m158.9,153.3l-17.4,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.6l0.4,-1.1l1.1,-0.4l17.4,0l0.6,0.1l0.8,0.8l0.1,23.6l-0.4,1.1l-1.1,0.4zm-15.9,-3l14.4,0l0,-20l-14.4,0l0,20z"/>
+    </g>
+    <g id="svg_29" node-id="1122">
+     <path id="svg_30" target-y="99.8" target-x="120.5" target-width="14.89999" target-height="23.39999" node-id="375" group-id="3,12,69" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m120.5,99.8l14.9,0l0,23.4l-14.9,0l0,-23.4z"/>
+     <path id="svg_31" target-y="98.3" target-x="119" target-width="17.89999" target-height="26.39999" node-id="377" group-id="3,12,69" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m135.4,124.7l-14.9,0l-0.6,-0.2l-0.8,-0.7l-0.1,-24l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.6,0.1l0.8,0.8l0.1,24l-0.5,1l-1,0.5zm-13.4,-3l11.9,0l0,-20.4l-11.9,0l0,20.4z"/>
+    </g>
+    <g id="svg_32" node-id="1123">
+     <path id="svg_33" target-y="157.4" target-x="99.6" target-width="14.9" target-height="22.90001" node-id="382" group-id="3,12,70" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m99.6,157.4l14.9,0l0,22.9l-14.9,0l0,-22.9z"/>
+     <path id="svg_34" target-y="155.9" target-x="98.1" target-width="17.9" target-height="25.90001" node-id="384" group-id="3,12,70" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m114.5,181.8l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.5,0.1l0.8,0.8l0.2,23.5l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-19.9l-11.9,0l0,19.9z"/>
+    </g>
+    <g id="svg_35" node-id="1124">
+     <path id="svg_36" target-y="99.8" target-x="141.5" target-width="17.39999" target-height="23.39999" node-id="389" group-id="3,12,71" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m141.5,99.8l17.4,0l0,23.4l-17.4,0l0,-23.4z"/>
+     <path id="svg_37" target-y="98.3" target-x="140" target-width="20.39999" target-height="26.39999" node-id="391" group-id="3,12,71" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m158.9,124.7l-17.4,0l-0.6,-0.2l-0.8,-0.7l-0.1,-24l0.4,-1.1l1.1,-0.4l17.4,0l0.6,0.1l0.8,0.8l0.1,24l-0.4,1l-1.1,0.5zm-15.9,-3l14.4,0l0,-20.4l-14.4,0l0,20.4z"/>
+    </g>
+    <g id="svg_38" node-id="1125">
+     <path id="svg_39" target-y="157.4" target-x="141.5" target-width="17.39999" target-height="22.90001" node-id="396" group-id="3,12,72" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m141.5,157.4l17.4,0l0,22.9l-17.4,0l0,-22.9z"/>
+     <path id="svg_40" target-y="155.9" target-x="140" target-width="20.39999" target-height="25.90001" node-id="398" group-id="3,12,72" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m158.9,181.8l-17.4,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.4,-1l1.1,-0.5l17.4,0l0.6,0.1l0.8,0.8l0.1,23.5l-0.4,1.1l-1.1,0.4zm-15.9,-3l14.4,0l0,-19.9l-14.4,0l0,19.9z"/>
+    </g>
+    <g id="svg_41" node-id="1126">
+     <path id="svg_42" target-y="128.8" target-x="35.6" target-width="16.1" target-height="23" node-id="403" group-id="3,12,73" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m35.6,128.8l16.1,0l0,23l-16.1,0l0,-23z"/>
+     <path id="svg_43" target-y="127.3" target-x="34.1" target-width="19.1" target-height="26" node-id="405" group-id="3,12,73" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m51.7,153.3l-16.1,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.6l0.1,-0.6l0.8,-0.8l16.7,-0.1l0.5,0.1l0.8,0.8l0.2,23.6l-0.5,1.1l-1,0.4zm-14.6,-3l13.1,0l0,-20l-13.1,0l0,20z"/>
+    </g>
+    <g id="svg_44" node-id="1127">
+     <path id="svg_45" target-y="99.8" target-x="35.6" target-width="16.1" target-height="23.39999" node-id="410" group-id="3,12,74" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m35.6,99.8l16.1,0l0,23.4l-16.1,0l0,-23.4z"/>
+     <path id="svg_46" target-y="98.3" target-x="34.1" target-width="19.1" target-height="26.39999" node-id="412" group-id="3,12,74" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m51.7,124.7l-16.1,0l-0.6,-0.2l-0.8,-0.7l-0.1,-24l0.1,-0.6l0.8,-0.8l16.7,-0.1l0.5,0.1l0.8,0.8l0.2,24l-0.5,1l-1,0.5zm-14.6,-3l13.1,0l0,-20.4l-13.1,0l0,20.4z"/>
+    </g>
+    <g id="svg_47" node-id="1128">
+     <path id="svg_48" target-y="157.4" target-x="35.6" target-width="16.1" target-height="22.90001" node-id="417" group-id="3,12,75" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m35.6,157.4l16.1,0l0,22.9l-16.1,0l0,-22.9z"/>
+     <path id="svg_49" target-y="155.9" target-x="34.1" target-width="19.1" target-height="25.90001" node-id="419" group-id="3,12,75" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m51.7,181.8l-16.1,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.1,-0.6l0.8,-0.8l16.7,-0.1l0.5,0.1l0.8,0.8l0.2,23.5l-0.5,1.1l-1,0.4zm-14.6,-3l13.1,0l0,-19.9l-13.1,0l0,19.9z"/>
+    </g>
+    <g id="svg_50" node-id="1129">
+     <path id="svg_51" target-y="157.4" target-x="57.7" target-width="14.9" target-height="22.90001" node-id="424" group-id="3,12,76" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m57.7,157.4l14.9,0l0,22.9l-14.9,0l0,-22.9z"/>
+     <path id="svg_52" target-y="155.9" target-x="56.2" target-width="17.9" target-height="25.90001" node-id="426" group-id="3,12,76" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m72.6,181.8l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.5,-1l1,-0.5l14.9,0l0.6,0.1l0.8,0.8l0.1,23.5l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-19.9l-11.9,0l0,19.9z"/>
+    </g>
+    <g id="svg_53" node-id="1130">
+     <path id="svg_54" target-y="128.8" target-x="57.7" target-width="14.9" target-height="23" node-id="431" group-id="3,12,77" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m57.7,128.8l14.9,0l0,23l-14.9,0l0,-23z"/>
+     <path id="svg_55" target-y="127.3" target-x="56.2" target-width="17.9" target-height="26" node-id="433" group-id="3,12,77" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m72.6,153.3l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.6l0.5,-1.1l1,-0.4l14.9,0l0.6,0.1l0.8,0.8l0.1,23.6l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-20l-11.9,0l0,20z"/>
+    </g>
+    <g id="svg_56" node-id="1131">
+     <path id="svg_57" target-y="157.4" target-x="78.7" target-width="14.8" target-height="22.90001" node-id="438" group-id="3,12,78" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m78.7,157.4l14.8,0l0,22.9l-14.8,0l0,-22.9z"/>
+     <path id="svg_58" target-y="155.9" target-x="77.2" target-width="17.8" target-height="25.90001" node-id="440" group-id="3,12,78" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m93.5,181.8l-14.8,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.1,-0.6l0.8,-0.8l15.4,-0.1l0.6,0.1l0.8,0.8l0.1,23.5l-0.4,1.1l-1.1,0.4zm-13.3,-3l11.8,0l0,-19.9l-11.8,0l0,19.9z"/>
+    </g>
+    <g id="svg_59" node-id="1132">
+     <path id="svg_60" target-y="99.8" target-x="78.7" target-width="14.8" target-height="23.39999" node-id="445" group-id="3,12,79" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m78.7,99.8l14.8,0l0,23.4l-14.8,0l0,-23.4z"/>
+     <path id="svg_61" target-y="98.3" target-x="77.2" target-width="17.8" target-height="26.39999" node-id="447" group-id="3,12,79" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m93.5,124.7l-14.8,0l-0.6,-0.2l-0.8,-0.7l-0.1,-24l0.1,-0.6l0.8,-0.8l15.4,-0.1l0.6,0.1l0.8,0.8l0.1,24l-0.4,1l-1.1,0.5zm-13.3,-3l11.8,0l0,-20.4l-11.8,0l0,20.4z"/>
+    </g>
+    <g id="svg_62" node-id="1133">
+     <path id="svg_63" target-y="128.8" target-x="78.7" target-width="14.8" target-height="23" node-id="452" group-id="3,12,80" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m78.7,128.8l14.8,0l0,23l-14.8,0l0,-23z"/>
+     <path id="svg_64" target-y="127.3" target-x="77.2" target-width="17.8" target-height="26" node-id="454" group-id="3,12,80" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m93.5,153.3l-14.8,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.6l0.1,-0.6l0.8,-0.8l15.4,-0.1l0.6,0.1l0.8,0.8l0.1,23.6l-0.4,1.1l-1.1,0.4zm-13.3,-3l11.8,0l0,-20l-11.8,0l0,20z"/>
+    </g>
+    <g id="svg_65" node-id="1134">
+     <path id="svg_66" target-y="99.8" target-x="57.7" target-width="14.9" target-height="23.39999" node-id="459" group-id="3,12,81" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m57.7,99.8l14.9,0l0,23.4l-14.9,0l0,-23.4z"/>
+     <path id="svg_67" target-y="98.3" target-x="56.2" target-width="17.9" target-height="26.39999" node-id="461" group-id="3,12,81" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m72.6,124.7l-14.9,0l-0.6,-0.2l-0.8,-0.7l-0.1,-24l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.6,0.1l0.8,0.8l0.1,24l-0.5,1l-1,0.5zm-13.4,-3l11.9,0l0,-20.4l-11.9,0l0,20.4z"/>
+    </g>
+    <g id="svg_68" node-id="1135">
+     <path id="svg_69" target-y="82.7" target-x="24.6" target-width="145.4" target-height="6.7" node-id="466" group-id="3,12,82" fill-rule="nonzero" fill-opacity="0.33" fill="#d5b697" d="m24.6,82.7l145.4,0l0,6.7l-145.4,0l0,-6.7z"/>
+     <path id="svg_70" target-y="81.2" target-x="23.1" target-width="148.4" target-height="9.70001" node-id="468" group-id="3,12,82" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m170,90.9l-145.4,0l-1,-0.5l-0.5,-1l0,-6.7l0.1,-0.6l0.8,-0.8l146,-0.1l1.1,0.4l0.4,1.1l0,6.7l-0.4,1l-1.1,0.5zm-143.9,-3l142.4,0l0,-3.7l-142.4,0l0,3.7z"/>
+    </g>
+    <g id="svg_71" node-id="1136">
+     <path id="svg_72" target-y="186.3" target-x="120.5" target-width="14.89999" target-height="22.89999" node-id="473" group-id="3,12,83" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m120.5,186.3l14.9,0l0,22.9l-14.9,0l0,-22.9z"/>
+     <path id="svg_73" target-y="184.8" target-x="119" target-width="17.89999" target-height="25.89999" node-id="475" group-id="3,12,83" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m135.4,210.7l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.1,-0.6l0.8,-0.8l15.5,-0.1l0.6,0.1l0.8,0.8l0.1,23.5l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-19.9l-11.9,0l0,19.9z"/>
+    </g>
+    <g id="svg_74" node-id="1137">
+     <path id="svg_75" target-y="186.3" target-x="141.5" target-width="17.39999" target-height="22.89999" node-id="480" group-id="3,12,84" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m141.5,186.3l17.4,0l0,22.9l-17.4,0l0,-22.9z"/>
+     <path id="svg_76" target-y="184.8" target-x="140" target-width="20.39999" target-height="25.89999" node-id="482" group-id="3,12,84" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m158.9,210.7l-17.4,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.4,-1.1l1.1,-0.4l17.4,0l0.6,0.1l0.8,0.8l0.1,23.5l-0.4,1.1l-1.1,0.4zm-15.9,-3l14.4,0l0,-19.9l-14.4,0l0,19.9z"/>
+    </g>
+    <g id="svg_77" node-id="1138">
+     <path id="svg_78" target-y="186.3" target-x="35.6" target-width="16.1" target-height="22.89999" node-id="487" group-id="3,12,85" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m35.6,186.3l16.1,0l0,22.9l-16.1,0l0,-22.9z"/>
+     <path id="svg_79" target-y="184.8" target-x="34.1" target-width="19.1" target-height="25.89999" node-id="489" group-id="3,12,85" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m51.7,210.7l-16.1,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.1,-0.6l0.8,-0.8l16.7,-0.1l0.5,0.1l0.8,0.8l0.2,23.5l-0.5,1.1l-1,0.4zm-14.6,-3l13.1,0l0,-19.9l-13.1,0l0,19.9z"/>
+    </g>
+    <g id="svg_80" node-id="1139">
+     <path id="svg_81" target-y="186.3" target-x="57.7" target-width="14.9" target-height="22.89999" node-id="494" group-id="3,12,86" fill-rule="nonzero" fill-opacity="0.33" fill="#bddfff" d="m57.7,186.3l14.9,0l0,22.9l-14.9,0l0,-22.9z"/>
+     <path id="svg_82" target-y="184.8" target-x="56.2" target-width="17.9" target-height="25.89999" node-id="496" group-id="3,12,86" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m72.6,210.7l-14.9,0l-0.6,-0.1l-0.8,-0.8l-0.1,-23.5l0.5,-1.1l1,-0.4l14.9,0l0.6,0.1l0.8,0.8l0.1,23.5l-0.5,1.1l-1,0.4zm-13.4,-3l11.9,0l0,-19.9l-11.9,0l0,19.9z"/>
+    </g>
+    <g id="svg_83" node-id="1140">
+     <path id="svg_84" target-y="186.3" target-x="78.7" target-width="35.8" target-height="30.59999" node-id="501" group-id="3,12,87" fill-rule="nonzero" fill-opacity="0.33" fill="#e4bc96" d="m78.7,186.3l35.8,0l0,30.6l-35.8,0l0,-30.6z"/>
+     <path id="svg_85" target-y="184.8" target-x="77.2" target-width="38.8" target-height="33.59999" node-id="503" group-id="3,12,87" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m114.5,218.4l-35.8,0l-1.1,-0.5l-0.4,-1l0,-30.6l0.1,-0.6l0.8,-0.8l36.4,-0.1l1.1,0.4l0.4,1.1l0,30.6l-0.4,1l-1.1,0.5zm-34.3,-3l32.8,0l0,-27.6l-32.8,0l0,27.6z"/>
+    </g>
+    <path id="svg_86" target-y="184.9" target-x="94.9" target-width="3" target-height="33.5" node-id="506" group-id="3,12" fill-rule="nonzero" fill-opacity="0.33" fill="#6e6e96" d="m96.4,218.4l-1.1,-0.5l-0.4,-1l0,-30.6l0.1,-0.6l0.8,-0.8l1.2,0l0.8,0.8l0.1,0.6l0,30.6l-0.5,1l-1,0.5z"/>
+   </g>
+   <path id="svg_87" target-y="61.8" target-x="65.8" target-width="24.79999" target-height="4.8" node-id="509" group-id="3" fill-rule="nonzero" fill="#ffffff" d="m88.3,66.6l-21,-0.2l-1.3,-1.3l-0.2,-1l0.2,-1l1.3,-1.3l22,0l1.3,1.3l0,2l-1.3,1.3l-1,0.2z"/>
+  </g>
+  <g id="svg_88" node-id="1057">
+   <g id="svg_89" node-id="1066">
+    <path id="svg_90" target-y="21.3" target-x="124.3" target-width="63.59999" target-height="9.6" node-id="515" group-id="4,13" fill-rule="nonzero" fill="#ebebf7" d="m124.3,21.3l63.6,0l0,9.6l-63.6,0l0,-9.6z"/>
+    <path id="svg_91" target-y="19.8" target-x="122.8" target-width="66.59999" target-height="12.6" node-id="517" group-id="4,13" fill-rule="nonzero" fill="#ccccde" d="m187.9,32.4l-63.6,0l-1.1,-0.5l-0.4,-1l0,-9.6l0.1,-0.6l0.8,-0.8l64.2,-0.1l1.1,0.4l0.4,1.1l0,9.6l-0.4,1l-1.1,0.5zm-62.1,-3l60.6,0l0,-6.6l-60.6,0l0,6.6z"/>
+   </g>
+   <g id="svg_92" node-id="1067">
+    <path id="svg_93" target-y="30.7" target-x="105.9" target-width="100.1" target-height="169.6" node-id="522" group-id="4,14" fill-rule="nonzero" fill="#ffffff" d="m105.9,30.7l100.1,0l0,169.6l-100.1,0l0,-169.6z"/>
+    <path id="svg_94" target-y="29.2" target-x="104.4" target-width="103.1" target-height="172.6" node-id="524" group-id="4,14" fill-rule="nonzero" fill="#ccccde" d="m206,201.8l-100.1,0l-0.6,-0.1l-0.8,-0.8l-0.1,-170.2l0.1,-0.6l0.8,-0.8l100.7,-0.1l0.6,0.1l0.8,0.8l0.1,170.2l-0.4,1.1l-1.1,0.4zm-98.6,-3l97.1,0l0,-166.6l-97.1,0l0,166.6z"/>
+   </g>
+   <g id="svg_95" node-id="1068">
+    <path id="svg_96" target-y="39.2" target-x="114.5" target-width="83.5" target-height="161.1" node-id="529" group-id="4,15" fill-rule="nonzero" fill="#cfe7ff" d="m114.5,39.2l83.5,0l0,161.1l-83.5,0l0,-161.1z"/>
+    <path id="svg_97" target-y="37.7" target-x="113" target-width="86.5" target-height="164.1" node-id="531" group-id="4,15" fill-rule="nonzero" fill="#ccccde" d="m198,201.8l-83.5,0l-0.6,-0.1l-0.8,-0.8l-0.1,-161.7l0.1,-0.6l0.8,-0.8l84.1,-0.1l0.6,0.1l0.8,0.8l0.1,161.7l-0.5,1.1l-1,0.4zm-82,-3l80.5,0l0,-158.1l-80.5,0l0,158.1z"/>
+   </g>
+   <g id="svg_98" node-id="1069">
+    <path id="svg_99" target-y="40.2" target-x="115.5" target-width="78.39999" target-height="82.8" node-id="536" group-id="4,16" fill-rule="nonzero" fill-opacity="0.49" fill="#ffffff" d="m115.5,123l78.4,-82.8l-56.8,0.2l-21.6,23.4l0,59.2z"/>
+   </g>
+   <g id="svg_100" node-id="1070">
+    <path id="svg_101" target-y="62.4" target-x="114.9" target-width="82.4" target-height="87.70001" node-id="541" group-id="4,17" fill-rule="nonzero" fill-opacity="0.27" fill="#ffffff" d="m197.3,62.4l-82.4,87l22.6,0.7l59.8,-63.1l0,-24.6z"/>
+   </g>
+   <g id="svg_102" node-id="1071">
+    <path id="svg_103" target-y="149.5" target-x="114.5" target-width="83.5" target-height="50.8" node-id="546" group-id="4,18" fill-rule="nonzero" fill="#cfe7ff" d="m114.5,149.5l83.5,0l0,50.8l-83.5,0l0,-50.8z"/>
+    <path id="svg_104" target-y="148.1" target-x="113" target-width="86.5" target-height="53.7" node-id="548" group-id="4,18" fill-rule="nonzero" fill="#ccccde" d="m198,201.8l-84.1,-0.1l-0.8,-0.8l-0.1,-0.6l0,-50.8l0.1,-0.6l0.8,-0.8l84.7,0l0.8,0.8l0.1,0.6l0,50.8l-0.5,1.1l-1,0.4zm-82,-3l80.5,0l0,-47.8l-80.5,0l0,47.8z"/>
+   </g>
+   <g id="svg_105" node-id="1072">
+    <g id="svg_106" node-id="1141">
+     <path id="svg_107" target-y="161.9" target-x="115.7" target-width="20.7" target-height="34.20001" node-id="555" group-id="4,19,88" fill-rule="nonzero" fill-opacity="0.1813" fill="#ffffff" d="m136.4,161.9l-20.7,21.3l0,12.9l20.7,-21.2l0,-13z"/>
+    </g>
+    <path id="svg_108" target-y="161.9" target-x="115.6" target-width="11.1" target-height="11.40001" node-id="560" group-id="4,19,89" fill-rule="nonzero" fill-opacity="0.1813" fill="#ffffff" d="m115.6,173.3l11.1,-11.4l-11.1,0"/>
+   </g>
+   <g id="svg_109" node-id="1073">
+    <g id="svg_110" node-id="1143">
+     <path id="svg_111" target-y="161.9" target-x="146.2" target-width="20.10001" target-height="34.20001" node-id="568" group-id="4,20,90" fill-rule="nonzero" fill-opacity="0.1813" fill="#ffffff" d="m166.3,161.9l-20.1,21.3l0,12.9l20.1,-21.2l0,-13z"/>
+    </g>
+    <path id="svg_112" target-y="161.9" target-x="146.8" target-width="10.8" target-height="11.40001" node-id="573" group-id="4,20,91" fill-rule="nonzero" fill-opacity="0.1813" fill="#ffffff" d="m146.8,173.3l10.8,-11.4l-10.8,0"/>
+   </g>
+   <g id="svg_113" node-id="1074">
+    <g id="svg_114" node-id="1145">
+     <path id="svg_115" target-y="161.9" target-x="174.5" target-width="22.39999" target-height="34.20001" node-id="581" group-id="4,21,92" fill-rule="nonzero" fill-opacity="0.1813" fill="#ffffff" d="m196.9,161.9l-22.4,21.3l0,12.9l22.4,-21.2l0,-13z"/>
+    </g>
+    <path id="svg_116" target-y="161.9" target-x="175.3" target-width="12" target-height="11.40001" node-id="586" group-id="4,21,93" fill-rule="nonzero" fill-opacity="0.1813" fill="#ffffff" d="m175.3,173.3l12,-11.4l-12,0"/>
+   </g>
+   <path id="svg_117" target-y="39.2" target-x="123.6" target-width="3" target-height="110.3" node-id="590" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m123.6,39.2l3,0l0,110.3l-3,0l0,-110.3z"/>
+   <path id="svg_118" target-y="39.2" target-x="134.3" target-width="3" target-height="110.3" node-id="592" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m134.3,39.2l3,0l0,110.3l-3,0l0,-110.3z"/>
+   <path id="svg_119" target-y="39.2" target-x="144.7" target-width="3" target-height="110.3" node-id="594" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m144.7,39.2l3,0l0,110.3l-3,0l0,-110.3z"/>
+   <path id="svg_120" target-y="39.2" target-x="155.6" target-width="3" target-height="110.3" node-id="596" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m155.6,39.2l3,0l0,110.3l-3,0l0,-110.3z"/>
+   <path id="svg_121" target-y="39.2" target-x="166" target-width="3" target-height="110.3" node-id="598" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m166,39.2l3,0l0,110.3l-3,0l0,-110.3z"/>
+   <path id="svg_122" target-y="39.2" target-x="176.1" target-width="3" target-height="110.3" node-id="600" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m176.1,39.2l3,0l0,110.3l-3,0l0,-110.3z"/>
+   <path id="svg_123" target-y="39.2" target-x="186.2" target-width="3" target-height="110.3" node-id="602" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m186.2,39.2l3,0l0,110.3l-3,0l0,-110.3z"/>
+   <path id="svg_124" target-y="60.9" target-x="113.1" target-width="86.4" target-height="3" node-id="604" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m198,63.9l-83.5,0l-0.6,-0.1l-0.8,-0.8l0,-1.2l0.8,-0.7l84.1,-0.2l1,0.5l0.5,1l-0.5,1.1l-1,0.4z"/>
+   <path id="svg_125" target-y="83.4" target-x="113.1" target-width="86.4" target-height="3" node-id="606" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m198,86.4l-83.5,0l-0.6,-0.1l-0.8,-0.8l0,-1.2l0.8,-0.7l84.1,-0.2l1,0.5l0.5,1l-0.5,1.1l-1,0.4z"/>
+   <path id="svg_126" target-y="104.8" target-x="113.1" target-width="86.4" target-height="3" node-id="608" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m198,107.8l-83.5,0l-0.6,-0.1l-0.8,-0.8l0,-1.2l0.8,-0.8l84.1,-0.1l1,0.5l0.5,1l-0.5,1.1l-1,0.4z"/>
+   <path id="svg_127" target-y="126.2" target-x="114.5" target-width="83.5" target-height="3" node-id="610" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m114.5,126.2l83.5,0l0,3l-83.5,0l0,-3z"/>
+   <g id="svg_128" node-id="1075">
+    <path id="svg_129" target-y="157.6" target-x="137.6" target-width="8.59999" target-height="42.7" node-id="614" group-id="4,22" fill-rule="nonzero" fill="#f0f0ff" d="m137.6,157.6l8.6,0l0,42.7l-8.6,0l0,-42.7z"/>
+    <path id="svg_130" target-y="156.2" target-x="136.1" target-width="11.59999" target-height="45.60001" node-id="616" group-id="4,22" fill-rule="nonzero" fill="#ccccde" d="m146.2,201.8l-8.6,0l-1,-0.4l-0.5,-1.1l0,-42.6l0.2,-0.6l0.7,-0.8l9.2,-0.1l1,0.4l0.5,1.1l0,42.6l-0.5,1.1l-1,0.4zm-7.1,-3l5.6,0l0,-39.6l-5.6,0l0,39.6z"/>
+   </g>
+   <g id="svg_131" node-id="1076">
+    <path id="svg_132" target-y="155.7" target-x="166" target-width="8" target-height="44.60001" node-id="621" group-id="4,23" fill-rule="nonzero" fill="#f0f0ff" d="m166,155.7l8,0l0,44.6l-8,0l0,-44.6z"/>
+    <path id="svg_133" target-y="154.2" target-x="164.5" target-width="11" target-height="47.60001" node-id="623" group-id="4,23" fill-rule="nonzero" fill="#ccccde" d="m174,201.8l-8,0l-1.1,-0.4l-0.4,-1.1l0,-44.6l0.1,-0.6l0.8,-0.8l8.6,-0.1l1.1,0.4l0.4,1.1l0,44.6l-0.4,1.1l-1.1,0.4zm-6.5,-3l5,0l0,-41.6l-5,0l0,41.6z"/>
+   </g>
+   <g id="svg_134" node-id="1077">
+    <path id="svg_135" target-y="149.5" target-x="114.5" target-width="83.5" target-height="12.39999" node-id="628" group-id="4,24" fill-rule="nonzero" fill="#f0f0ff" d="m114.5,149.5l83.5,0l0,12.4l-83.5,0l0,-12.4z"/>
+    <path id="svg_136" target-y="148" target-x="113" target-width="86.5" target-height="15.39999" node-id="630" group-id="4,24" fill-rule="nonzero" fill="#ccccde" d="m198,163.4l-83.5,0l-1.1,-0.4l-0.4,-1.1l0,-12.4l0.4,-1.1l1.1,-0.4l83.5,0l1,0.4l0.5,1.1l0,12.4l-0.5,1.1l-1,0.4zm-82,-3l80.5,0l0,-9.4l-80.5,0l0,9.4z"/>
+   </g>
+   <g id="svg_137" node-id="1078">
+    <path id="svg_138" target-y="13.8" target-x="142.1" target-width="28" target-height="7.5" node-id="635" group-id="4,25" fill-rule="nonzero" fill="#ebebf7" d="m142.1,13.8l28,0l0,7.5l-28,0l0,-7.5z"/>
+    <path id="svg_139" target-y="12.4" target-x="140.6" target-width="31" target-height="10.4" node-id="637" group-id="4,25" fill-rule="nonzero" fill="#ccccde" d="m170.1,22.8l-28.6,-0.1l-0.8,-0.8l-0.1,-0.6l0,-7.5l0.1,-0.6l0.8,-0.8l29.2,0l0.8,0.8l0.1,0.6l0,7.5l-0.4,1.1l-1.1,0.4zm-26.5,-3l25,0l0,-4.5l-25,0l0,4.5z"/>
+   </g>
+   <path id="svg_140" target-y="0.1" target-x="154.6" target-width="3" target-height="15.2" node-id="640" group-id="4" fill-rule="nonzero" fill="#ccccde" d="m156.1,15.3l-1.1,-0.5l-0.4,-1l0,-12.3l0.1,-0.6l0.8,-0.8l1.2,0l0.8,0.8l0.1,0.6l0,12.3l-0.4,1l-1.1,0.5z"/>
+   <g id="svg_141" node-id="1079">
+    <path id="svg_142" target-y="196" target-x="102.3" target-width="108.89999" target-height="8.8" node-id="644" group-id="4,26" fill-rule="nonzero" fill="#f0f0ff" d="m102.3,196l108.9,0l0,8.8l-108.9,0l0,-8.8z"/>
+    <path id="svg_143" target-y="194.5" target-x="100.8" target-width="111.89999" target-height="11.8" node-id="646" group-id="4,26" fill-rule="nonzero" fill="#ccccde" d="m211.2,206.3l-108.9,0l-1,-0.5l-0.5,-1l0,-8.8l0.1,-0.5l0.8,-0.8l109.5,-0.2l1,0.5l0.5,1l0,8.8l-0.5,1l-1,0.5zm-107.4,-3l105.9,0l0,-5.8l-105.9,0l0,5.8z"/>
+   </g>
+  </g>
+  <g id="svg_144" node-id="1058">
+   <g id="svg_145" node-id="1080">
+    <path id="svg_146" target-y="117.2" target-x="162.1" target-width="84.5" target-height="99.3" node-id="653" group-id="5,27" fill-rule="nonzero" fill="#ffffff" d="m246.6,216.5l-84.5,0l0,-72.2l42.2,-27.1l42.3,27.1l0,72.2z"/>
+    <path id="svg_147" target-y="115.4" target-x="160.6" target-width="87.5" target-height="102.6" node-id="655" group-id="5,27" fill-rule="nonzero" fill="#ccccde" d="m248.1,218l-87.5,0l0,-74.6l43.7,-28l43.8,28.1l0,74.5zm-84.5,-3l81.5,0l0,-69.9l-40.8,-26.1l-40.7,26.1l0,69.9z"/>
+   </g>
+   <g id="svg_148" node-id="1081">
+    <path id="svg_149" target-y="112.6" target-x="154.6" target-width="98.39999" target-height="35.7" node-id="660" group-id="5,28" fill-rule="nonzero" fill="#e0e6fc" d="m204.3,112.6l-49.7,30.2l0,5l7.5,0l42.2,-26.1l42.2,26.5l6.5,0.1l0,-5.5l-48.7,-30.2z"/>
+    <path id="svg_150" target-y="111.1" target-x="153.1" target-width="101.39999" target-height="38.7" node-id="662" group-id="5,28" fill-rule="nonzero" fill="#ccccde" d="m253,149.8l-7.3,-0.4l-41.4,-25.9l-41.5,25.6l-0.7,0.2l-7.5,0l-1,-0.4l-0.5,-1.1l0,-5l0.7,-1.2l49.7,-30.3l0.8,-0.2l0.8,0.2l48.7,30.3l0.7,1.2l0,5.5l-0.4,1l-1.1,0.5zm-6.1,-3.1l4.6,0l0,-3l-47.2,-29.3l-48.2,29.3l0,2.6l5.5,0l41.9,-25.9l0.8,-0.2l0.8,0.2l41.8,26.3z"/>
+   </g>
+   <g id="svg_151" node-id="1082">
+    <path id="svg_152" target-y="180.3" target-x="170" target-width="28.7" target-height="19" node-id="667" group-id="5,29" fill-rule="nonzero" fill="#d4eaff" d="m170,180.3l28.7,0l0,19l-28.7,0l0,-19z"/>
+    <path id="svg_153" target-y="178.8" target-x="168.5" target-width="31.7" target-height="22" node-id="669" group-id="5,29" fill-rule="nonzero" fill="#ccccde" d="m198.7,200.8l-28.7,0l-1,-0.5l-0.5,-1l0,-19l0.5,-1l1,-0.5l28.7,0l1.1,0.5l0.4,1l0,19l-0.4,1l-1.1,0.5zm-27.2,-3l25.7,0l0,-16l-25.7,0l0,16z"/>
+   </g>
+   <g id="svg_154" node-id="1083">
+    <path id="svg_155" target-y="205" target-x="162.1" target-width="84.5" target-height="11.5" node-id="674" group-id="5,30" fill-rule="nonzero" fill="#fcebe3" d="m162.1,205l84.5,0l0,11.5l-84.5,0l0,-11.5z"/>
+    <path id="svg_156" target-y="203.5" target-x="160.6" target-width="87.5" target-height="14.5" node-id="676" group-id="5,30" fill-rule="nonzero" fill="#ccccde" d="m246.6,218l-84.5,0l-1.1,-0.4l-0.4,-1.1l0,-11.5l0.4,-1l1.1,-0.5l84.5,0l1.1,0.5l0.4,1l0,11.5l-0.4,1.1l-1.1,0.4zm-83,-3l81.5,0l0,-8.5l-81.5,0l0,8.5z"/>
+   </g>
+   <g id="svg_157" node-id="1084">
+    <path id="svg_158" target-y="201.6" target-x="154.6" target-width="45.29999" target-height="14.89999" node-id="681" group-id="5,31" fill-rule="nonzero" fill="#cce8d6" d="m199.9,216.5l-0.7,-3.3l-2,-2.3l-1.3,-0.6l-1.5,-0.3l-2.6,0.8l-1.1,0.9l-0.6,-2.1l-1,-1.8l-1.2,-1.4l-1.5,-1.2l-1.7,-0.7l-1.9,-0.3l-1.7,0.3l-3,1.5l-1.5,-1.8l-1.7,-1.4l-2,-0.9l-2.3,-0.3l-2,0.3l-1.8,0.7l-1.7,1.2l-1.4,1.6l-1.1,1.8l-0.8,2.1l-1.2,-0.1l-1.6,0.2l-1.4,0.7l-1.2,1.1l-1,1.4l-0.5,1.6l-0.3,2.3l45.3,0z"/>
+    <path id="svg_159" target-y="200.1" target-x="153.1" target-width="48.29999" target-height="17.89999" node-id="683" group-id="5,31" fill-rule="nonzero" fill="#ccccde" d="m154.6,218l-1,-0.4l-0.5,-1.5l0.3,-2.3l0.8,-2l1.2,-1.8l1.5,-1.3l1.8,-0.8l2.1,-0.2l1,-2.2l1.3,-1.8l1.6,-1.5l1.8,-1.1l2,-0.7l2.1,-0.3l2.2,0.3l2.1,0.7l1.9,1.2l1.6,1.6l2.1,-0.9l2.3,-0.3l3.6,0.8l3,2.3l2.1,3.4l2.9,-0.7l1.9,0.3l1.6,0.8l1.5,1.2l1.1,1.7l0.7,1.8l0.2,2.2l-0.4,1.1l-1.1,0.4l-45.3,0zm5.9,-7.3l-1.5,0.3l-1.3,0.9l-0.9,1.4l-0.6,1.7l42.1,0l-0.6,-1.4l-0.9,-1.1l-1.1,-0.7l-1.3,-0.3l-1.4,0.3l-2,1.3l-0.8,0l-0.6,-0.4l-1.7,-4l-2.3,-2.2l-1.3,-0.5l-2.8,-0.1l-3,1.6l-0.7,0l-0.6,-0.2l-1.7,-2.1l-1.4,-1.1l-1.7,-0.7l-1.8,-0.3l-1.6,0.3l-1.5,0.6l-1.4,1l-2.1,2.8l-1,2.4l-1,0.6l-1.5,-0.1z"/>
+   </g>
+   <g id="svg_160" node-id="1085">
+    <path id="svg_161" target-y="180.3" target-x="211.5" target-width="22.10001" target-height="36.2" node-id="688" group-id="5,32" fill-rule="nonzero" fill="#ffdede" d="m211.5,180.3l22.1,0l0,36.2l-22.1,0l0,-36.2z"/>
+    <path id="svg_162" target-y="178.8" target-x="210" target-width="25.10001" target-height="39.2" node-id="690" group-id="5,32" fill-rule="nonzero" fill="#ccccde" d="m233.6,218l-22.1,0l-0.6,-0.1l-0.8,-0.8l-0.1,-36.8l0.1,-0.5l0.8,-0.8l22.7,-0.2l0.6,0.2l0.7,0.8l0.2,36.7l-0.5,1.1l-1,0.4zm-20.6,-3l19.1,0l0,-33.2l-19.1,0l0,33.2z"/>
+   </g>
+   <path id="svg_163" target-y="172.1" target-x="160.7" target-width="87.40001" target-height="3" node-id="693" group-id="5" fill-rule="nonzero" fill="#ccccde" d="m246.6,175.1l-84.5,0l-0.6,-0.1l-0.8,-0.8l0,-1.2l0.8,-0.8l85.1,-0.1l1.1,0.4l0.4,1.1l-0.4,1.1l-1.1,0.4z"/>
+   <g id="svg_164" node-id="1086">
+    <g id="svg_165" node-id="1147">
+     <path id="svg_166" target-y="149.1" target-x="170" target-width="15.5" target-height="17.59999" node-id="699" group-id="5,33,94" fill-rule="nonzero" fill="#d4eaff" d="m170,149.1l15.5,0l0,17.6l-15.5,0l0,-17.6z"/>
+     <path id="svg_167" target-y="147.6" target-x="168.5" target-width="18.5" target-height="20.59999" node-id="701" group-id="5,33,94" fill-rule="nonzero" fill="#ccccde" d="m185.5,168.2l-15.5,0l-1,-0.4l-0.5,-1.1l0,-17.6l0.5,-1.1l1,-0.4l15.5,0l1,0.4l0.5,1.1l0,17.6l-0.5,1.1l-1,0.4zm-14,-3l12.5,0l0,-14.6l-12.5,0l0,14.6z"/>
+    </g>
+    <path id="svg_168" target-y="156.4" target-x="168.7" target-width="18.3" target-height="3" node-id="704" group-id="5,33" fill-rule="nonzero" fill="#ccccde" d="m185.5,159.4l-15.5,0l-0.6,-0.1l-0.7,-0.8l0,-1.2l0.7,-0.8l16.1,-0.1l1,0.4l0.5,1.1l-0.5,1.1l-1,0.4z"/>
+   </g>
+   <g id="svg_169" node-id="1087">
+    <g id="svg_170" node-id="1148">
+     <path id="svg_171" target-y="149.1" target-x="222.9" target-width="15.40001" target-height="17.59999" node-id="711" group-id="5,34,95" fill-rule="nonzero" fill="#d4eaff" d="m222.9,149.1l15.4,0l0,17.6l-15.4,0l0,-17.6z"/>
+     <path id="svg_172" target-y="147.6" target-x="221.4" target-width="18.40001" target-height="20.59999" node-id="713" group-id="5,34,95" fill-rule="nonzero" fill="#ccccde" d="m238.3,168.2l-15.4,0l-1.1,-0.4l-0.4,-1.1l0,-17.6l0.4,-1.1l1.1,-0.4l15.4,0l1.1,0.4l0.4,1.1l0,17.6l-0.4,1.1l-1.1,0.4zm-13.9,-3l12.4,0l0,-14.6l-12.4,0l0,14.6z"/>
+    </g>
+    <path id="svg_173" target-y="156.4" target-x="221.5" target-width="18.3" target-height="3" node-id="716" group-id="5,34" fill-rule="nonzero" fill="#ccccde" d="m238.3,159.4l-15.4,0l-0.6,-0.1l-0.8,-0.8l0,-1.2l0.8,-0.8l16,-0.1l1.1,0.4l0.4,1.1l-0.4,1.1l-1.1,0.4z"/>
+   </g>
+   <g id="svg_174" node-id="1088">
+    <g id="svg_175" node-id="1149">
+     <path id="svg_176" target-y="149.1" target-x="196.5" target-width="15.5" target-height="17.59999" node-id="723" group-id="5,35,96" fill-rule="nonzero" fill="#d4eaff" d="m196.5,149.1l15.5,0l0,17.6l-15.5,0l0,-17.6z"/>
+     <path id="svg_177" target-y="147.6" target-x="195" target-width="18.5" target-height="20.59999" node-id="725" group-id="5,35,96" fill-rule="nonzero" fill="#ccccde" d="m212,168.2l-15.5,0l-1,-0.4l-0.5,-1.1l0,-17.6l0.5,-1.1l1,-0.4l15.5,0l1,0.4l0.5,1.1l0,17.6l-0.5,1.1l-1,0.4zm-14,-3l12.5,0l0,-14.6l-12.5,0l0,14.6z"/>
+    </g>
+    <path id="svg_178" target-y="156.4" target-x="195" target-width="18.5" target-height="3" node-id="728" group-id="5,35" fill-rule="nonzero" fill="#ccccde" d="m212,159.4l-15.5,0l-1,-0.4l-0.5,-1.1l0.5,-1.1l1,-0.4l15.5,0l1,0.4l0.5,1.1l-0.5,1.1l-1,0.4z"/>
+   </g>
+   <path id="svg_179" target-y="179" target-x="182.9" target-width="3" target-height="21.8" node-id="731" group-id="5" fill-rule="nonzero" fill="#ccccde" d="m184.4,200.8l-1,-0.5l-0.5,-1l0,-19l0.1,-0.5l0.8,-0.8l1.2,0l0.8,0.8l0.1,0.5l0,19l-0.4,1l-1.1,0.5z"/>
+   <g id="svg_180" node-id="1089">
+    <path id="svg_181" target-y="212.4" target-x="208.5" target-width="28.10001" target-height="4.10001" node-id="735" group-id="5,36" fill-rule="nonzero" fill="#f0f0ff" d="m208.5,212.4l28.1,0l0,4.1l-28.1,0l0,-4.1z"/>
+    <path id="svg_182" target-y="211" target-x="207" target-width="31.10001" target-height="7" node-id="737" group-id="5,36" fill-rule="nonzero" fill="#ccccde" d="m236.6,218l-28.7,-0.1l-0.7,-0.8l-0.2,-0.6l0,-4.1l0.2,-0.6l0.7,-0.8l29.2,0l0.8,0.8l0.2,0.6l0,4.1l-0.5,1.1l-1,0.4zm-26.6,-3l25.1,0l0,-1.1l-25.1,0l0,1.1z"/>
+   </g>
+   <path id="svg_183" target-y="192.6" target-x="213.7" target-width="3" target-height="7.5" node-id="740" group-id="5" fill-rule="nonzero" fill="#ccccde" d="m215.2,200.1l-1.1,-0.4l-0.4,-1.1l0,-4.6l0.1,-0.6l0.8,-0.8l1.2,0l0.8,0.8l0.1,0.6l-0.1,5.2l-0.8,0.8l-0.6,0.1z"/>
+  </g>
+  <g id="svg_184" node-id="1059">
+   <g id="svg_185" node-id="1090">
+    <path id="svg_186" target-y="153" target-x="2.4" target-width="54.8" target-height="49" node-id="747" group-id="6,37" fill-rule="nonzero" fill="#d7f7e4" d="m57.2,175.4l-0.2,-2.7l-0.8,-2.5l-1.2,-2.4l-1.6,-2.1l-1.9,-1.8l-2.3,-1.5l-2.5,-1.1l-2.7,-0.7l-3.3,-0.2l-1.6,-2.1l-2,-1.8l-2.2,-1.5l-2.5,-1.1l-2.7,-0.7l-3,-0.2l-2.9,0.2l-2.7,0.7l-2.5,1.1l-2.3,1.5l-1.9,1.8l-1.6,2.1l-1.2,2.4l-0.8,2.5l-0.2,3.1l-2.4,1.5l-1.9,1.8l-1.7,2.1l-1.2,2.4l-0.7,2.5l-0.3,2.8l0.3,2.7l0.7,2.5l1.2,2.4l1.6,2.1l1.9,1.8l2.3,1.5l2.5,1.1l2.7,0.7l4.5,0.2l3.4,2.9l4.2,1.9l4.9,0.7l2.7,-0.3l2.5,-0.5l2.4,-1l4,-2.9l2.9,-3.9l1,-2.2l0.5,-2.4l2.5,-1.5l2,-1.8l1.8,-2.2l1.2,-2.4l0.8,-2.6l0.3,-2.9z"/>
+    <path id="svg_187" target-y="151.5" target-x="0.9" target-width="57.8" target-height="52" node-id="749" group-id="6,37" fill-rule="nonzero" fill="#ccccde" d="m32.6,203.5l-2.5,-0.2l-4.7,-1.3l-2.2,-1l-3.7,-3l-3.4,-0.1l-3.1,-0.7l-2.9,-1.2l-2.6,-1.6l-2.2,-2l-1.9,-2.3l-1.3,-2.7l-0.9,-2.8l-0.3,-3.1l0.3,-2.8l0.7,-2.7l1.2,-2.5l1.6,-2.3l2,-2l2.4,-1.7l0.4,-2.9l0.8,-2.7l1.4,-2.5l1.7,-2.2l2.1,-1.9l2.5,-1.6l2.7,-1.2l2.9,-0.7l3.1,-0.3l3,0.2l2.7,0.7l2.7,1.1l2.4,1.4l2.1,1.8l1.8,2.2l3.2,0.3l2.9,0.8l2.7,1.2l2.4,1.7l2.1,2l1.7,2.3l1.3,2.5l0.8,2.7l0.2,3l-0.2,3l-0.8,2.7l-1.3,2.6l-1.7,2.3l-2.2,2l-2.5,1.7l-0.7,2.6l-1.1,2.3l-1.5,2.2l-3.8,3.5l-2.3,1.4l-2.5,0.9l-2.7,0.6l-2.8,0.3zm-11.9,-8.6l3.7,3.3l3.9,1.7l4.3,0.6l2.4,-0.2l4.4,-1.4l2,-1.2l3.2,-3l2,-3.9l0.6,-3l3,-1.8l1.9,-1.6l1.5,-2l1.2,-2.2l0.7,-2.3l0.2,-2.5l-0.2,-2.4l-0.7,-2.3l-1.1,-2.1l-1.4,-1.9l-1.8,-1.6l-2,-1.4l-2.3,-1l-2.5,-0.6l-3.9,-0.2l-1.9,-2.7l-1.8,-1.6l-2.1,-1.3l-2.3,-1l-2.4,-0.6l-2.6,-0.2l-2.6,0.2l-2.5,0.6l-2.3,1l-2,1.4l-1.8,1.6l-1.4,1.9l-1.1,2.1l-0.7,2.3l-0.2,3.7l-3,1.8l-1.8,1.7l-1.4,1.9l-1.1,2.1l-0.7,2.3l-0.2,2.4l0.2,2.4l0.7,2.3l1.1,2.1l1.4,1.9l1.8,1.6l2.1,1.4l2.2,1l2.5,0.6l4.8,0.1z"/>
+   </g>
+   <g id="svg_188" node-id="1091">
+    <path id="svg_189" target-y="152.8" target-x="2.1" target-width="54.9" target-height="48.59999" node-id="754" group-id="6,38" fill-rule="nonzero" fill-opacity="0.1" fill="#6e6e96" d="m40.8,159.8l-0.4,0l-2.7,-3.2l-1.7,-1.3l-3.9,-1.9l-2.2,-0.6l2.5,0.9l2.3,1.3l1.9,1.7l3.5,4.8l2.9,0.2l2.3,0.6l1.8,0.9l1.5,1.2l1.1,1.6l0.9,1.8l0.5,2.2l0,5.2l-0.5,2l-0.8,1.7l-1.1,1.5l-1.6,1.4l-2.1,1.2l-0.4,2.1l-1.9,3.7l-3,2.9l-1.9,1.2l-4.2,1.3l-2.3,0.2l-4.2,-0.6l-1.9,-0.7l-2.5,-1.5l-2.1,-1.9l-3.9,-0.1l-2.3,-0.4l-4,-1.6l-3,-2.7l-1,-1.7l-0.6,-1.9l-0.2,-2.3l0.2,-2.4l0.5,-1.8l0.8,-1.6l1.9,-2.1l2.6,-2.2l0,-5l0.4,-1.6l5.9,-6.9l2.8,-1.9l-2.9,1.3l-2.5,1.8l-2.1,2.3l-1.6,2.6l-0.7,1.9l-0.6,4.4l-2.3,1.5l-2,1.8l-1.6,2.2l-1.2,2.3l-0.8,2.6l-0.3,2.7l0.3,2.8l0.7,2.5l1.2,2.3l1.6,2.1l2,1.8l2.2,1.6l2.5,1.1l2.7,0.7l4.5,0.1l3.4,2.9l2.1,1.1l4.5,1.3l2.5,0.2l2.7,-0.2l2.6,-0.6l2.3,-0.9l4.1,-2.9l2.9,-3.9l0.9,-2.3l0.5,-2.4l2.5,-1.5l2.1,-1.8l1.7,-2.1l1.3,-2.4l0.8,-2.7l0.3,-2.8l-0.3,-2.8l-0.7,-2.5l-1.2,-2.3l-1.6,-2.1l-2,-1.8l-2.2,-1.5l-2.5,-1.1l-2.7,-0.7l-3,-0.3z"/>
+   </g>
+   <g id="svg_190" node-id="1092">
+    <path id="svg_191" target-y="179.9" target-x="17.8" target-width="23.8" target-height="37.3" node-id="759" group-id="6,39" fill-rule="nonzero" fill="#ede3da" d="m17.8,183.6l2.5,0.9l1.7,0.9l1.5,1.3l1.3,1.7l1.2,3l0.4,4.3l-0.2,5.9l-0.6,3.6l-1.2,4.1l-2.7,5.3l-2,2.6l20.1,0l-2.4,-3.9l-2.9,-6l-1.1,-3.7l-0.8,-3.9l-0.1,-4.1l0.3,-2.7l0.7,-2.7l1.2,-2.8l1.6,-2.5l2.3,-2.5l3,-2.5l-6,2.6l-6.9,1.5l-6.7,0.2l-4.2,-0.6z"/>
+    <path id="svg_192" target-y="178.6" target-x="16.4" target-width="26.4" target-height="40.09999" node-id="761" group-id="6,39" fill-rule="nonzero" fill="#ccccde" d="m39.8,218.7l-23.4,0l4,-4.9l2.5,-5l1.2,-3.8l0.8,-6.7l-0.5,-6.9l-0.5,-1.5l-2.2,-2.8l-1.5,-1l-2.8,-1.1l0.7,-2.9l6.5,0.7l3.2,-0.2l7,-1.4l6,-2.6l1.7,2.5l-2.7,2.2l-2.1,2.3l-1.7,2.5l-1.1,2.7l-0.7,2.8l-0.2,2.8l0.5,5.3l1,3.8l1.3,3.4l2.8,5.2l3.2,4.6l-3,0zm-17,-3l14.2,0l-3,-5.7l-1.4,-3.6l-1.5,-7.2l0.1,-6l0.8,-3.2l1.2,-2.9l1.7,-2.8l-5.5,1.2l-4.7,0.3l2.1,3.1l0.6,1.9l0.5,5.2l-0.2,5.4l-1.4,7l-1.4,3.6l-2.1,3.7z"/>
+   </g>
+   <path id="svg_193" target-y="183.5" target-x="30" target-width="9.8" target-height="33.7" node-id="768" group-id="6,41" fill-rule="nonzero" fill-opacity="0.11" fill="#6e6e96" d="m36.6,183.5l-2.4,3.9l-2.7,6.4l-1.5,7l0.2,6.3l0.6,3.2l1.1,3.3l1.7,3.6l6.2,0l-3.9,-7.4l-1.3,-3.5l-1.5,-7.1l0.1,-6.2l0.6,-3.1l1.1,-3.1l1.7,-3.3z"/>
+  </g>
+  <path id="svg_194" target-y="215.5" target-x="0" target-width="256" target-height="27" node-id="772" fill-rule="nonzero" fill="#f0f0ff" d="m0,215.5l256,0l0,27l-256,0l0,-27z"/>
+  <path id="svg_195" target-y="214" target-x="0" target-width="256" target-height="3" node-id="774" fill-rule="nonzero" fill="#ccccde" d="m0,214l256,0l0,3l-256,0l0,-3z"/>
+  <path id="svg_196" target-y="241" target-x="0" target-width="256" target-height="3" node-id="776" fill-rule="nonzero" fill="#ccccde" d="m0,241l256,0l0,3l-256,0l0,-3z"/>
+  <path id="svg_197" target-y="227.5" target-x="0" target-width="10.5" target-height="3" node-id="778" fill-rule="nonzero" fill="#ccccde" d="m0,227.5l10.5,0l0,3l-10.5,0l0,-3z"/>
+  <path id="svg_198" target-y="227.5" target-x="25.5" target-width="13" target-height="3" node-id="780" fill-rule="nonzero" fill="#ccccde" d="m25.5,227.5l13,0l0,3l-13,0l0,-3z"/>
+  <path id="svg_199" target-y="227.5" target-x="118" target-width="10.5" target-height="3" node-id="785" fill-rule="nonzero" fill="#ccccde" d="m118,227.5l10.5,0l0,3l-10.5,0l0,-3z"/>
+  <path id="svg_200" target-y="227.5" target-x="142.5" target-width="13.5" target-height="3" node-id="787" fill-rule="nonzero" fill="#ccccde" d="m142.5,227.5l13.5,0l0,3l-13.5,0l0,-3z"/>
+  <path id="svg_201" target-y="228" target-x="185.2" target-width="9.8" target-height="3" node-id="789" fill-rule="nonzero" fill="#ccccde" d="m185.2,228l9.8,0l0,3l-9.8,0l0,-3z"/>
+  <g id="svg_202" node-id="1063">
+   <g id="svg_203" node-id="1095">
+    <path id="svg_204" target-y="192.8" target-x="209.3" target-width="31" target-height="18.39999" node-id="795" group-id="10,42" fill-rule="nonzero" fill="#e0f8ff" d="m61.7,207.6l-0.1,1.4l-0.5,1.1l-1.1,0.8l-1.3,0.3l-25.1,0l-1.4,-0.3l-1,-0.8l-0.5,-1.1l0,-1.4l2.2,-11.2l0.5,-1.4l1,-1.1l1.3,-0.8l1.5,-0.3l18.6,0l1.4,0.3l1.3,0.8l0.9,1.1l0.6,1.4l1.7,11.2z"/>
+    <path id="svg_205" target-y="191.3" target-x="207.7" target-width="34.10001" target-height="21.39999" node-id="797" group-id="10,42" fill-rule="nonzero" fill="#ccccde" d="m58.7,212.7l-25.1,0l-1.4,-0.2l-2.1,-1.4l-1,-2.4l0.1,-1.4l2.2,-11.2l1.1,-2.4l2.1,-1.7l1.3,-0.5l19.9,-0.2l1.3,0.2l2.4,1.2l1.5,2.2l0.4,1.3l1.8,12.5l-1,2.4l-2.2,1.4l-1.3,0.2zm-21.5,-18.4l-1.8,0.7l-1,1.7l-2.3,11.2l0.3,1.3l1.2,0.5l25.1,0l0.7,-0.2l0.8,-0.9l-1.7,-12l-1,-1.6l-1.7,-0.7l-18.6,0z"/>
+   </g>
+   <g id="svg_206" node-id="1096">
+    <path id="svg_207" target-y="209" target-x="199.9" target-width="47" target-height="15.2" node-id="802" group-id="10,43" fill-rule="nonzero" fill="#fff2c4" d="m68.3,220.6l-0.3,1.4l-0.7,1.1l-1.2,0.8l-1.4,0.3l-39.8,0l-1.4,-0.3l-1.2,-0.8l-0.7,-1.1l-0.3,-1.4l0,-8l0.3,-1.4l0.7,-1.1l1.2,-0.8l1.4,-0.3l39.8,0l1.4,0.3l1.2,0.8l0.7,1.1l0.3,1.4l0,8z"/>
+    <path id="svg_208" target-y="207.5" target-x="198.6" target-width="49.59999" target-height="18.2" node-id="804" group-id="10,43" fill-rule="nonzero" fill="#ccccde" d="m64.7,225.7l-39.8,0l-2.6,-0.7l-1.8,-1.8l-0.5,-1.2l0,-10.8l0.5,-1.2l1.8,-1.8l2.6,-0.7l39.8,0l2.6,0.7l1.8,1.8l0.5,1.2l0,10.8l-0.5,1.2l-1.8,1.8l-2.6,0.7zm-39.8,-15.2l-1.5,0.6l-0.6,1.5l0.2,8.8l1.1,1.1l0.8,0.2l39.8,0l1.5,-0.6l0.6,-1.5l0,-8l-0.2,-0.8l-1.1,-1.1l-40.6,-0.2z"/>
+   </g>
+   <g id="svg_209" node-id="1097">
+    <path id="svg_210" target-y="215.7" target-x="204.7" target-width="13.40001" target-height="13.5" node-id="809" group-id="10,44" fill-rule="nonzero" fill="#e7e7fc" d="m39.5,222.5l-0.2,1.8l-0.7,1.5l-1,1.4l-1.4,1.1l-1.6,0.6l-1.8,0.3l-1.8,-0.3l-1.6,-0.6l-1.3,-1.1l-1.1,-1.4l-0.6,-1.5l-0.3,-1.8l0.3,-1.9l0.6,-1.5l1.1,-1.4l1.3,-1l1.6,-0.7l1.8,-0.3l1.8,0.3l1.6,0.7l1.4,1l1,1.4l0.7,1.5l0.2,1.9z"/>
+    <path id="svg_211" target-y="214.2" target-x="203.2" target-width="16.40001" target-height="16.5" node-id="811" group-id="10,44" fill-rule="nonzero" fill="#ccccde" d="m32.8,230.7l-2.2,-0.3l-1.9,-0.9l-1.7,-1.2l-1.3,-1.7l-0.8,-1.9l-0.3,-2.2l0.3,-2.2l0.8,-2l1.3,-1.6l1.7,-1.3l1.9,-0.9l2.2,-0.3l2.2,0.3l2,0.9l1.6,1.3l1.3,1.6l0.8,2l0.3,2.2l-0.3,2.2l-0.8,1.9l-1.3,1.7l-1.6,1.2l-2,0.9l-2.2,0.3zm0,-13.5l-1.4,0.2l-2.3,1.4l-1.3,2.2l-0.2,1.5l0.7,2.6l1.9,1.9l1.2,0.5l1.4,0.2l2.6,-0.7l1.9,-1.9l0.7,-2.6l-0.2,-1.5l-1.3,-2.2l-2.3,-1.4l-1.4,-0.2z"/>
+   </g>
+   <g id="svg_212" node-id="1098">
+    <path id="svg_213" target-y="215.7" target-x="228.4" target-width="13.5" target-height="13.5" node-id="816" group-id="10,45" fill-rule="nonzero" fill="#e7e7fc" d="m63.3,222.5l-0.3,1.8l-0.7,1.5l-1,1.4l-1.4,1.1l-1.5,0.6l-1.9,0.3l-1.8,-0.3l-1.5,-0.6l-1.4,-1.1l-1.1,-1.4l-0.6,-1.5l-0.3,-1.8l0.3,-1.9l0.6,-1.5l1.1,-1.4l1.4,-1l1.5,-0.7l1.8,-0.3l1.9,0.3l1.5,0.7l1.4,1l1,1.4l0.7,1.5l0.3,1.9z"/>
+    <path id="svg_214" target-y="214.2" target-x="226.9" target-width="16.5" target-height="16.5" node-id="818" group-id="10,45" fill-rule="nonzero" fill="#ccccde" d="m56.5,230.7l-2.2,-0.3l-1.9,-0.9l-1.7,-1.2l-1.2,-1.7l-0.9,-1.9l-0.3,-2.2l0.3,-2.2l0.9,-2l1.2,-1.6l1.7,-1.3l1.9,-0.9l2.2,-0.3l2.2,0.3l2,0.9l1.6,1.3l1.3,1.6l0.9,2l0.3,2.2l-0.3,2.2l-0.9,1.9l-1.3,1.7l-1.6,1.2l-2,0.9l-2.2,0.3zm0,-13.5l-1.4,0.2l-2.2,1.4l-1.4,2.2l-0.2,1.5l0.7,2.6l1.9,1.9l1.2,0.5l1.4,0.2l2.7,-0.7l1.8,-1.9l0.8,-2.6l-0.2,-1.5l-1.4,-2.2l-2.2,-1.4l-1.5,-0.2z"/>
+   </g>
+   <path id="svg_215" target-y="192.8" target-x="223.5" target-width="3" target-height="16.2" node-id="821" group-id="10" fill-rule="nonzero" fill="#ccccde" d="m44.9,192.8l3,0l0,16.2l-3,0l0,-16.2z"/>
+  </g>
+  <path id="svg_216" target-y="227.5" target-x="53" target-width="13" target-height="3" node-id="824" fill-rule="nonzero" fill="#ccccde" d="m53,227.5l13,0l0,3l-13,0l0,-3z"/>
+  <path id="svg_217" target-y="227.5" target-x="78.5" target-width="13" target-height="3" node-id="826" fill-rule="nonzero" fill="#ccccde" d="m78.5,227.5l13,0l0,3l-13,0l0,-3z"/>
+  <g id="svg_218" node-id="1064">
+   <g id="svg_219" node-id="1099">
+    <path id="svg_220" target-y="185.9" target-x="157.8" target-width="16.39999" target-height="62.10001" node-id="832" group-id="11,46" fill-rule="nonzero" fill="#ddddeb" d="m157.8,185.9l16.4,0l0,62.1l-16.4,0l0,-62.1z"/>
+    <path id="svg_221" target-y="184.4" target-x="156.3" target-width="19.39999" target-height="65.10001" node-id="834" group-id="11,46" fill-rule="nonzero" fill="#6e6e96" d="m175.7,249.5l-19.4,0l0,-65.1l19.4,0l0,65.1zm-16.4,-3l13.4,0l0,-59.1l-13.4,0l0,59.1z"/>
+   </g>
+   <g id="svg_222" node-id="1100">
+    <path id="svg_223" target-y="185.9" target-x="92.4" target-width="16.4" target-height="62.10001" node-id="839" group-id="11,47" fill-rule="nonzero" fill="#ddddeb" d="m92.4,185.9l16.4,0l0,62.1l-16.4,0l0,-62.1z"/>
+    <path id="svg_224" target-y="184.4" target-x="90.9" target-width="19.4" target-height="65.10001" node-id="841" group-id="11,47" fill-rule="nonzero" fill="#6e6e96" d="m110.3,249.5l-19.4,0l0,-65.1l19.4,0l0,65.1zm-16.4,-3l13.4,0l0,-59.1l-13.4,0l0,59.1z"/>
+   </g>
+   <g id="svg_225" node-id="1101">
+    <path id="svg_226" target-y="81.3" target-x="54" target-width="157.5" target-height="105" node-id="846" group-id="11,48" fill-rule="nonzero" fill="#ffffff" d="m54,81.3l157.5,0l0,105l-157.5,0l0,-105z"/>
+    <path id="svg_227" target-y="79.8" target-x="52.5" target-width="160.5" target-height="108" node-id="848" group-id="11,48" fill-rule="nonzero" fill="#6e6e96" d="m211.5,187.8l-157.5,0l-1,-0.4l-0.5,-1.1l0,-105l0.1,-0.5l0.8,-0.8l158.1,-0.2l1.1,0.5l0.4,1l0,105l-0.4,1.1l-1.1,0.4zm-156,-3l154.5,0l0,-102l-154.5,0l0,102z"/>
+   </g>
+   <g id="svg_228" node-id="1102">
+    <path id="svg_229" target-y="88.3" target-x="60.8" target-width="144" target-height="90.8" node-id="853" group-id="11,49" fill-rule="nonzero" fill="#ffe3b0" d="m60.8,88.3l144,0l0,90.8l-144,0l0,-90.8z"/>
+    <path id="svg_230" target-y="86.9" target-x="59.3" target-width="147" target-height="93.70001" node-id="855" group-id="11,49" fill-rule="nonzero" fill="#6e6e96" d="m204.8,180.6l-144.6,-0.1l-0.8,-0.8l-0.1,-0.6l0,-90.8l0.1,-0.6l0.8,-0.8l145.2,0l0.8,0.8l0.1,0.6l0,90.8l-0.4,1.1l-1.1,0.4zm-142.5,-3l141,0l0,-87.8l-141,0l0,87.8z"/>
+   </g>
+   <g id="svg_231" node-id="1103">
+    <g id="svg_232" node-id="1150">
+     <path id="svg_233" target-y="91.3" target-x="70.8" target-width="61.09999" target-height="60.2" node-id="862" group-id="11,50,97" fill-rule="nonzero" fill="#b89289" d="m130.2,111.5l1.1,3.9l0.6,3.8l0,3.9l-0.5,3.8l-1,3.6l-1.5,3.6l-2,3.3l-2.3,3.1l-2.8,2.8l-3.1,2.5l-3.5,2.1l-3.9,1.7l-4,1.1l-4,0.7l-4,0.1l-3.9,-0.4l-3.8,-0.9l-3.6,-1.3l-3.4,-1.8l-3.1,-2.2l-2.9,-2.6l-2.4,-2.9l-2.1,-3.3l-1.6,-3.7l-1.1,-3.9l-0.6,-3.9l0,-3.8l0.6,-3.8l1,-3.7l1.5,-3.5l1.9,-3.4l2.3,-3l2.8,-2.9l3.1,-2.4l3.5,-2.1l3.9,-1.7l7.9,-2.3l3.7,-0.6l3.8,-0.1l3.5,0.3l3.4,0.9l2.4,0.9l4.6,3.1l4.1,4.5l3.7,6.4l1.7,4.1z"/>
+    </g>
+    <g id="svg_234" node-id="1151">
+     <path id="svg_235" target-y="90.8" target-x="72.5" target-width="51" target-height="35.39999" node-id="867" group-id="11,50,98" fill-rule="nonzero" fill="#c79e94" d="m74,126.2l0.3,-3.9l1.4,-5.9l1.3,-3.5l1.9,-3.4l2.6,-3.4l2.1,-2l5.4,-3.8l3.2,-1.4l3.7,-1.1l6.7,-1.4l5.6,-0.5l3.5,0.2l4,0.8l5.1,2.2l2.7,1.8l-2,-2.9l-3.8,-3.6l-2.8,-1.7l-4.5,-1.5l-5.7,-0.4l-3.2,0.3l-3.8,0.9l-3.7,1.3l-4.2,2l-4.8,2.7l-3.5,2.6l-2.7,2.4l-2.1,2.4l-1.7,2.7l-1.9,4.9l-0.6,3.6l0.4,5.9l1.1,3.7z"/>
+    </g>
+    <g id="svg_236" node-id="1152">
+     <path id="svg_237" target-y="90" target-x="69.6" target-width="63.6" target-height="62.7" node-id="872" group-id="11,50,99" fill-rule="nonzero" fill="#6e6e96" d="m129,111.9l1,3.5l0.6,3.5l0,3.5l-0.3,3.5l-0.9,3.5l-1.3,3.4l-1.9,3.5l-2.4,3.1l-2.7,2.8l-3.1,2.5l-3.4,2l-3.7,1.7l-3.9,1.1l-3.8,0.6l-3.8,0.1l-3.8,-0.4l-3.6,-0.8l-3.5,-1.3l-3.2,-1.7l-3,-2.1l-2.7,-2.5l-2.4,-2.8l-2,-3.1l-1.5,-3.6l-1.1,-3.7l-0.5,-3.7l0,-3.6l0.5,-3.7l1,-3.5l1.4,-3.4l1.9,-3.2l2.2,-2.9l2.7,-2.7l3,-2.4l3.3,-2l3.7,-1.6l5,-1.6l4.5,-0.9l4,-0.4l3.6,0.1l3.2,0.6l2.9,1l2.7,1.5l2.6,2l2.4,2.5l2.2,3.1l2.2,3.9l1.9,4.6zm-38.1,-18.8l-4,1.8l-3.6,2.1l-3.3,2.6l-2.9,2.9l-2.4,3.3l-2,3.4l-1.5,3.7l-1.1,3.9l-0.5,3.9l0,4l0.5,4.1l1.1,4l1.8,3.9l2.1,3.4l2.6,3.1l2.9,2.7l3.3,2.2l3.5,1.9l3.8,1.4l3.9,0.9l4.1,0.4l4.2,-0.1l4.1,-0.6l4.3,-1.2l4,-1.8l3.6,-2.2l3.4,-2.7l3,-3.1l2.5,-3.4l2.1,-3.7l1.4,-3.8l1,-3.8l0.4,-3.8l-0.1,-3.9l-0.6,-3.8l-1.1,-3.7l-2.1,-5.1l-2.3,-4.1l-2.5,-3.4l-2.6,-2.8l-2.8,-2.1l-3,-1.6l-3.2,-1.2l-3.5,-0.6l-3.9,-0.2l-4.3,0.4l-4.9,1l-5.4,1.7z"/>
+    </g>
+    <g id="svg_238" node-id="1153">
+     <path id="svg_239" target-y="143.7" target-x="100.2" target-width="21" target-height="20.7" node-id="877" group-id="11,50,100" fill-rule="nonzero" fill="#f9e6d4" d="m100.2,151l3.7,0l2.5,-1.2l1,-1.7l-0.1,-4.1l6.4,-0.3l0.2,2.1l1,2.5l0.9,1.1l1.3,0.6l1.8,0.3l1.6,4.1l0.7,3.8l-0.1,1.9l-0.6,1.6l-1.5,1.8l-1.3,0.7l-2.9,0.2l-3.8,-1.3l-4.6,-3.2l-3.7,-4l-1.3,-1.9l-1.2,-3z"/>
+    </g>
+    <g id="svg_240" node-id="1154">
+     <path id="svg_241" target-y="142.4" target-x="98.9" target-width="23.5" target-height="23.40001" node-id="882" group-id="11,50,101" fill-rule="nonzero" fill="#6e6e96" d="m100,152.3l4.4,-0.1l1.4,-0.5l1.4,-0.9l1.1,-1.5l0.4,-2.6l-0.1,-2.7l-1.2,1.3l6.3,-0.3l-1.3,-1.3l0.6,3.7l1.6,2.6l1.3,0.9l1.4,0.5l1.7,0.1l-1.2,-0.7l1.6,4.6l0.5,3.8l-0.4,1.7l-1.2,1.5l-1,0.5l-1.8,0.3l-1.9,-0.4l-1.9,-0.7l-3.9,-2.7l-2.1,-2l-3,-3.8l-1.2,-2.6l-1.5,1.3zm18.2,13.1l1.6,-0.9l1.2,-1.2l0.9,-1.5l0.5,-1.8l0,-2l-0.7,-3.9l-2,-5.2l-2.2,-0.1l-1.1,-0.6l-1.2,-2.4l-0.2,-3.4l-9,0.4l0.2,4l-0.2,1.3l-0.5,0.8l-1.7,0.8l-4.9,0l0.4,3l1.2,2.2l3.6,4.5l4.6,3.9l2.8,1.5l2.5,0.8l2.2,0.2l2,-0.4z"/>
+    </g>
+    <g id="svg_242" node-id="1155">
+     <path id="svg_243" target-y="98.7" target-x="77.8" target-width="48.7" target-height="47.60001" node-id="887" group-id="11,50,102" fill-rule="nonzero" fill="#f9e6d4" d="m124.2,107.9l-2.9,-3.4l-3,-2.6l-2.2,-1.4l-2.3,-1l-2.5,-0.6l-2.6,-0.2l-2.8,0.3l-3.3,0.9l-3,1.3l-3.5,2l-4.1,2.7l-4,3.4l-3.1,3.1l-2.4,2.8l-1.6,2.6l-1.3,3l-0.6,2.7l0,2.6l0.5,2.6l1,2.3l1.6,2.4l2.2,2.3l2.9,2.3l4.1,2.7l4.3,2.2l4.4,1.8l4.2,1.1l2.9,0.5l4.9,-0.3l2.2,-0.6l2,-1.1l1.6,-1.5l2.9,-3.7l2.7,-4.2l2.1,-4.5l1.6,-4.6l0.6,-3.2l0,-6.1l-0.6,-3l-1.2,-2.8l-1.7,-2.8z"/>
+    </g>
+    <g id="svg_244" node-id="1156">
+     <path id="svg_245" target-y="98.4" target-x="77.2" target-width="48.7" target-height="47.6" node-id="892" group-id="11,50,103" fill-rule="nonzero" fill-opacity="0.39" fill="#e8b98e" d="m122.4,107.6l-2.9,-3.3l-3,-2.7l-2.2,-1.4l-2.3,-1l-2.5,-0.6l-2.6,-0.2l-2.8,0.3l-3.2,0.9l-3.1,1.3l-3.5,2l-4,2.8l-4.1,3.3l-3.1,3.1l-2.3,2.8l-1.7,2.7l-1.3,2.9l-0.6,2.8l0,2.6l0.5,2.5l1,2.3l1.6,2.4l2.2,2.3l2.9,2.4l4.1,2.6l4.3,2.3l4.5,1.7l4.2,1.2l2.8,0.4l4.9,-0.2l2.3,-0.7l1.9,-1.1l1.6,-1.4l2.9,-3.8l2.7,-4.2l2.1,-4.5l1.6,-4.6l0.6,-3.2l0,-6.1l-0.6,-3l-1.2,-2.8l-1.7,-2.8zm-7.8,30.6l-1.5,1.4l-1.7,0.9l-1.8,0.5l-4.1,-0.1l-2.2,-0.5l-3.3,-1.2l-6.4,-3.2l-8.6,-6.1l2.1,-2.4l4.3,-6.1l5.1,-9.4l3,-6.6l0.8,0.6l3.7,1l7.3,0.6l5.6,0.1l1.8,1.2l1.4,1.7l1.1,2.1l0.9,5l-0.1,3l-1.3,6.1l-2.5,6.1l-3.6,5.3z"/>
+    </g>
+    <g id="svg_246" node-id="1157">
+     <path id="svg_247" target-y="97.4" target-x="76.4" target-width="51.5" target-height="50.2" node-id="897" group-id="11,50,104" fill-rule="nonzero" fill="#6e6e96" d="m124,107.1l-2.9,-3.3l-2.7,-2.6l-2.8,-1.8l-2.8,-1.2l-2.7,-0.6l-2.8,-0.2l-2.9,0.4l-3.1,0.8l-3.4,1.4l-3.7,2.1l-4.2,2.8l-4.1,3.4l-3.2,3.2l-2.5,3.1l-1.7,2.8l-1.2,2.7l-0.7,2.6l-0.2,2.5l0.3,2.4l0.7,2.3l1.1,2.3l1.6,2.3l2.2,2.3l2.9,2.3l4.4,2.8l4.5,2.3l4.6,1.8l4.5,1.2l2.9,0.4l5.2,-0.4l2.4,-0.7l2.1,-1.2l1.8,-1.6l3.2,-4.2l2.7,-4.5l1.6,-3.1l2.1,-6.4l0.6,-3.3l0.1,-3.2l-0.2,-3.1l-0.7,-3.1l-1.3,-2.9l-1.7,-2.8zm-8.4,34.9l-1.5,1.3l-1.8,1l-2.1,0.6l-4.6,0.1l-2.7,-0.5l-4,-1.1l-4.2,-1.7l-4.1,-2.2l-3.9,-2.5l-3,-2.4l-2.1,-2.4l-1.4,-2.3l-0.9,-2.4l-0.3,-2.3l0.2,-2.6l0.9,-2.6l1.5,-2.9l2.3,-3.1l3.3,-3.3l4.4,-3.7l4.6,-3.2l4,-2l3.5,-1.3l3.1,-0.5l2.9,0.1l2.1,0.5l2.1,0.8l4,2.8l4,4.5l1.6,2.5l1.1,2.6l0.6,2.7l0.2,2.9l-0.8,5.9l-1.4,4.4l-2,4.3l-2.6,4.2l-3,3.8z"/>
+    </g>
+    <g id="svg_248" node-id="1158">
+     <path id="svg_249" target-y="158.8" target-x="87.3" target-width="6.5" target-height="20.39999" node-id="902" group-id="11,50,105" fill-rule="nonzero" fill="#ffffff" d="m90.8,159.9l-2.2,7.9l-1.3,11.4l2.6,-5.4l2.3,-5.9l1.5,-5.5l0.1,-2.2l-0.3,-1.1l-0.4,-0.3l-0.8,0.2l-1.5,0.9z"/>
+    </g>
+    <g id="svg_250" node-id="1159">
+     <path id="svg_251" target-y="158.2" target-x="86.8" target-width="7.39999" target-height="21.40001" node-id="907" group-id="11,50,106" fill-rule="nonzero" fill="#6e6e96" d="m90.7,159.5l-1.7,4.4l-1.5,8.6l-0.7,6.5l0.1,0.5l0.6,0.1l2.4,-3.6l0.8,-2.1l3.3,-11.2l0.2,-3.5l-0.4,-0.8l-0.7,-0.2l-0.9,0.2l-1.5,1.1zm-3.1,19.5l1.3,-10.6l2,-8.1l1.8,-1.1l0.5,-0.1l0.2,0.4l-0.4,3.2l-1.4,4.8l-3.4,9.4l-1.1,2l0.5,0.1z"/>
+    </g>
+    <g id="svg_252" node-id="1160">
+     <path id="svg_253" target-y="94.8" target-x="94.5" target-width="27.9" target-height="7.89999" node-id="912" group-id="11,50,107" fill-rule="nonzero" fill="#b89289" d="m94.5,99.1l4.9,1.5l7.9,1.6l4.8,0.5l5,0l5.3,-0.6l-6.9,-4.3l-3.2,-1.4l-6.1,-1.6l-4.9,0.3l-2.3,0.7l-2.3,1.3l-2.2,2z"/>
+    </g>
+    <g id="svg_254" node-id="1161">
+     <path id="svg_255" target-y="96.4" target-x="74.4" target-width="25.9" target-height="38.1" node-id="917" group-id="11,50,108" fill-rule="nonzero" fill="#b89289" d="m100.3,96.4l-2.8,6.8l-6,10.8l-4.7,6.7l-3.5,4.4l-8.9,9.4l0.2,-8.5l1.7,-9.1l1.5,-5.2l2.4,-5.9l1,-1.7l2.7,-2.8l2.5,-1.6l2.7,-1.2l5.3,-1.4l5.9,-0.7z"/>
+    </g>
+    <g id="svg_256" node-id="1162">
+     <path id="svg_257" target-y="95.9" target-x="73.2" target-width="27.5" target-height="39.8" node-id="922" group-id="11,50,109" fill-rule="nonzero" fill="#6e6e96" d="m98.3,96.7l-3.9,8.7l-2.1,4l-5.9,9.5l-3.8,5.1l-4.2,4.9l-5.2,5.1l0.2,1.4l1.4,0.3l5.4,-5l4.3,-5l7.1,-10l5,-8.9l4.1,-9.3l-0.1,-1l-0.7,-0.6l-1,0l-0.6,0.8z"/>
+    </g>
+    <g id="svg_258" node-id="1163">
+     <path id="svg_259" target-y="99" target-x="97" target-width="29.8" target-height="5.5" node-id="927" group-id="11,50,110" fill-rule="nonzero" fill="#6e6e96" d="m97.6,101.4l4.4,1.5l3.4,0.8l8.8,0.8l5.3,-0.3l6.3,-0.8l1,-1l-0.5,-1.3l-1,-0.2l-6,0.8l-5,0.2l-4.8,-0.3l-6.8,-1.1l-4.4,-1.5l-1.3,0.7l0,1l0.6,0.7z"/>
+    </g>
+    <g id="svg_260" node-id="1164">
+     <path id="svg_261" target-y="150.2" target-x="89.7" target-width="41" target-height="28.8" node-id="932" group-id="11,50,111" fill-rule="nonzero" fill="#ffffff" d="m97.7,160.4l0.3,2.2l-0.3,4.8l-2.2,7.2l3.4,2.9l0.9,1.5l29.3,0l1.4,-4.8l0.2,-2.8l-0.3,-4.1l-1,-4.2l-1.5,-4l-2,-3.6l-1.6,-2.1l-3.5,-3.2l-1.7,0l-0.9,0.7l-0.4,1l-0.5,5.5l-0.4,1.4l-0.8,1.3l-1.1,0.9l-1,0.4l-1,-0.1l-1.4,-0.7l-8.2,-8.5l-1.3,-0.8l-2.5,-0.4l-2,0.2l-3.2,1.4l-3.3,2.9l-1.4,2.2l2.1,-0.6l2.7,0l2.1,1.2l1.1,2.2z"/>
+    </g>
+    <g id="svg_262" node-id="1165">
+     <path id="svg_263" target-y="151.4" target-x="101.7" target-width="28.40001" target-height="27.10001" node-id="937" group-id="11,50,112" fill-rule="nonzero" fill-opacity="0.15" fill="#6e6e96" d="m102.9,174.5l7.3,-0.7l6.4,-1.4l3.2,-1.1l2.8,-1.5l2.8,-2.5l0.9,-1.6l0.5,-1.7l0,-1.9l-0.6,-2.4l-1.1,-2.2l-1.9,-2.8l-2.9,-3.3l4.9,5.3l1.8,2.6l1.6,3.3l1.3,4.7l0.2,2.7l-0.2,2.6l-0.7,2.8l-1.3,3.1l-26.2,0l1.2,-4z"/>
+    </g>
+    <g id="svg_264" node-id="1166">
+     <path id="svg_265" target-y="148.8" target-x="88.5" target-width="43.5" target-height="31.5" node-id="942" group-id="11,50,113" fill-rule="nonzero" fill="#6e6e96" d="m96.5,160.8l0.3,1.9l-0.4,4.3l-1.3,5.4l-0.8,2l0.1,0.8l1,1.2l2.5,1.8l1.3,1.9l29.9,0.2l0.7,-0.2l0.5,-0.6l0.1,-1.3l-1.2,-0.7l-0.9,0.3l-0.4,0.8l0,0.9l0.7,0.7l0.9,0.1l0.8,-0.7l0.9,-2.5l0.6,-2.7l0.2,-2.9l-0.6,-5.9l-0.8,-2.9l-1.6,-4.2l-2.1,-3.8l-1.7,-2.2l-3.8,-3.4l-2.3,-0.3l-1.5,0.9l-0.6,0.8l-0.7,2.5l-0.6,5.2l-0.6,1l-1.4,0.9l-1,-0.3l-1.3,-1.1l-6.9,-7.3l-1.5,-1.1l-1.7,-0.6l-1.9,-0.1l-2,0.2l-3.6,1.5l-1.9,1.4l-1.8,1.9l-1.5,2.4l-0.1,0.7l0.3,0.7l0.7,0.4l2.8,-0.6l2.6,0.3l0.9,0.8l0.7,1.5zm-5.6,-2.7l1.2,-1.9l3,-2.6l2.7,-1.3l3.1,-0.1l2.4,1.5l5.2,5.8l2.8,2.5l2.3,0.7l1.2,-0.2l2.3,-1.6l0.9,-1.5l0.5,-1.6l0.5,-5.4l0.3,-0.7l0.8,-0.4l3.3,3l1.5,2l1.9,3.4l1.4,3.8l0.9,3.9l0.3,3.9l-0.1,2.6l-1.4,4.6l0.8,-0.7l0.9,0.1l0.7,0.7l0,0.9l0.2,-0.8l-0.4,-0.9l-0.9,-0.3l-0.9,0.3l-0.4,0.8l0.5,-0.6l0.7,-0.2l-29.3,0l1.2,0.7l-1.1,-1.8l-3.2,-2.7l0.1,0.8l-0.3,0.7l1.9,-5.4l0.9,-5l0,-2.6l-0.3,-2.4l-0.7,-1.7l-1,-1.3l-1.3,-0.9l-3,-0.6l-3.8,0.8l0.8,-0.1l0.7,0.4l0.3,0.7l-0.1,0.7z"/>
+    </g>
+    <g id="svg_266" node-id="1167">
+     <path id="svg_267" target-y="155.5" target-x="86.4" target-width="15.29999" target-height="23.60001" node-id="947" group-id="11,50,114" fill-rule="nonzero" fill="#f9e6d4" d="m101.7,179l-0.5,-9.5l-1.4,-5.3l-2.3,-5l-1.3,-1.8l-0.9,-1.1l-1.7,-0.8l-2.2,0.5l-1,0.7l-1.2,1.4l-2,4.3l-0.6,2.7l-0.2,3.9l0.2,10.1l15.1,-0.1z"/>
+    </g>
+    <g id="svg_268" node-id="1168">
+     <path id="svg_269" target-y="112.8" target-x="107.5" target-width="9.8" target-height="9" node-id="952" group-id="11,50,115" fill-rule="nonzero" fill="#6e6e96" d="m110,120.4l0.72129,-2.99839l0.9,-0.91807l0.65904,-0.54096l1.01968,-0.14096l2.6,0.59839l1,-0.3l0.4,-0.8l-0.7,-1.3l-2.2,-0.57871l-1.63936,-0.13936l-1.5,0.34096l-1.2,0.51968l-1.03936,1.01968l-0.53936,1.33936l-0.31968,1.33936l-0.66225,2.85904l0.5,0.8l0.9,0.3l0.9,-0.4l0.2,-1z"/>
+    </g>
+    <g stroke="null" id="svg_270" node-id="1169">
+     <path stroke="null" id="svg_271" target-y="120.7" target-x="93" target-width="9.9" target-height="9.10001" node-id="957" group-id="11,50,116" fill-rule="nonzero" fill="#6e6e96" d="m96.05724,127.97477l0.74474,-1.9289l0.73224,-0.95094l0.8881,-0.69369l1.15779,-0.44675l2.91252,0.26109l0.99571,-0.3035l0.51997,-0.80681l-0.83934,-1.01134l-1.95019,-0.4453l-1.71089,-0.09592l-1.67763,0.23805l-1.35038,0.58344l-1.05043,0.85993l-0.72162,1.49234l-0.53678,1.33097l-1.02049,2.21393l0.60147,0.75968l1.02288,0.21866l0.98666,-0.47756l0.29568,-0.79739z"/>
+    </g>
+    <g id="svg_272" node-id="1170">
+     <path id="svg_273" target-y="128" target-x="105.7" target-width="11.4" target-height="8.89999" node-id="962" group-id="11,50,117" fill-rule="nonzero" fill="#6e6e96" d="m106.7,136.9l3.5,-0.50161l1.91968,-0.78032l1.91968,-1.31968l2.26064,-2.49839l0.8,-2.2l-0.1,-1l-0.7,-0.6l-1.4,0.4l-1,2.5l-2.12129,1.55743l-1.53936,1.08032l-4.03936,1.06225l-0.5,1.3l1,1z"/>
+    </g>
+    <g id="svg_274" node-id="1171">
+     <path id="svg_275" target-y="99.7" target-x="71.2" target-width="61.2" target-height="51.5" node-id="967" group-id="11,50,118" fill-rule="nonzero" fill-opacity="0.25" fill="#6e6e96" d="m81.8,145.2l-2.9,-2.5l-2.4,-2.5l-1.7,-2.6l-1.5,-2.7l-1.6,-5.3l-0.5,-4.1l0.1,-3.7l0.6,-3.6l0.7,-3l2.4,-6.3l-1.3,7.9l0.1,7.7l0.6,4.2l1.3,4.1l1.3,2.7l1.6,2.5l2.1,2.4l2.3,2l3,1.8l3.6,1.5l3.9,1l4.6,0.5l5.7,0.1l3.5,-0.4l5.7,-1.5l2.2,-1.2l2.8,-2l2.2,-2.3l1.8,-2.6l2.5,-6l0.8,-3.3l0.6,-5l0.1,-5l-0.7,-9.1l-1.8,-9.2l2.9,5l3.5,7.7l1.4,4.7l1.1,6.6l0,3.4l-0.4,3.4l-1,3.2l-1.5,3.2l-3.3,4.3l-5.3,4.1l-6.7,3l-4.4,1.4l-5.3,1.1l-3.5,0.4l-6,-0.2l-4.1,-1l-3.5,-1.4l-5.6,-3.4z"/>
+    </g>
+    <g id="svg_276" node-id="1172">
+     <path id="svg_277" target-y="95.9" target-x="74" target-width="25.9" target-height="37.2" node-id="972" group-id="11,50,119" fill-rule="nonzero" fill-opacity="0.25" fill="#6e6e96" d="m74,126.2l10.6,-9l7.1,-7.6l5.2,-7.4l3,-6.3l-4.3,10.4l-2.2,4.6l-6,10.1l-3.5,4.7l-2.6,2.9l-5.4,4.5l-1.9,-6.9z"/>
+    </g>
+    <g id="svg_278" node-id="1173">
+     <path id="svg_279" target-y="156.8" target-x="87.7" target-width="13.4" target-height="21" node-id="977" group-id="11,50,120" fill-rule="nonzero" fill-opacity="0.39" fill="#e8b98e" d="m93.5,156.8l1.7,2.4l1.6,4.2l0.3,3l0,7.7l-9.4,0l0,3.7l12.9,0l0.5,-6.4l-0.2,-2.8l-0.5,-2.9l-0.8,-2.9l-1.4,-2.5l-1.2,-1.4l-1.6,-1.2l-1.9,-0.9z"/>
+    </g>
+    <g id="svg_280" node-id="1174">
+     <path id="svg_281" target-y="154.2" target-x="85.1" target-width="17.9" target-height="26.10001" node-id="982" group-id="11,50,121" fill-rule="nonzero" fill="#6e6e96" d="m103,179.1l-0.2,-12.1l-0.5,-3l-1.1,-2.9l-1.6,-2.7l-1.8,-2.1l-1.4,-1.1l-2.7,-1l-1.5,0.2l-2.6,1.3l-1.2,1.3l-1.3,2l-1,2.6l-0.7,3.3l-0.3,3.9l0.4,11.5l17.5,0l0,-1.2zm-15.1,-0.2l-0.2,-9.9l0.2,-3.7l0.6,-2.6l1.5,-3.6l1.2,-1.4l1.1,-0.7l1.2,-0.2l0.9,0.4l2.3,3l2.7,7.2l0.8,4.4l0.3,7.2l1.2,-1.2l-15.1,0l1.3,1.1z"/>
+    </g>
+    <path id="svg_282" target-y="148.8" target-x="105.2" target-width="11.20001" target-height="7.09999" node-id="987" group-id="11,50,122" fill-rule="nonzero" fill-opacity="0.39" fill="#e8b98e" d="m108.8,155.9l0.6,-2.2l1.5,-2.1l1.4,-0.6l1,0l3.1,1l-3.2,-3.2l-5.4,1.4l-2.6,1.7l3.6,4z"/>
+   </g>
+   <g stroke="null" id="svg_283" node-id="1104">
+    <path stroke="null" id="svg_284" target-y="118.1" target-x="148.7" target-width="41.8" target-height="4.1" node-id="993" group-id="11,51" fill-rule="nonzero" fill-opacity="0.5" fill="#6e6e96" d="m155.1,118.1l28.6,0l0,4.1l-28.6,0l0,-4.1z"/>
+   </g>
+   <g stroke="null" id="svg_285" node-id="1105">
+    <path stroke="null" id="svg_286" target-y="130.4" target-x="157.1" target-width="25" target-height="4.10001" node-id="998" group-id="11,52" fill-rule="nonzero" fill-opacity="0.5" fill="#6e6e96" d="m151.1,130.4l36.6,0l0,4.1l-36.6,0l0,-4.1z"/>
+   </g>
+   <g stroke="null" id="svg_287" node-id="1106">
+    <path stroke="null" id="svg_288" target-y="142.7" target-x="151.1" target-width="37" target-height="4.10001" node-id="1003" group-id="11,53" fill-rule="nonzero" fill-opacity="0.5" fill="#6e6e96" d="m157.1,142.7l25,0l0,4.1l-25,0l0,-4.1z"/>
+   </g>
+   <g id="svg_289" node-id="1107">
+    <path id="svg_290" target-y="171.9" target-x="61.6" target-width="143.20001" target-height="6.90001" node-id="1008" group-id="11,54" fill-rule="nonzero" fill-opacity="0.15" fill="#6e6e96" d="m61.6,171.9l143.2,0l0,6.9l-143.2,0l0,-6.9z"/>
+   </g>
+   <g id="svg_291" node-id="1108">
+    <path id="svg_292" target-y="186.3" target-x="92.4" target-width="16.4" target-height="6.2" node-id="1013" group-id="11,55" fill-rule="nonzero" fill-opacity="0.15" fill="#6e6e96" d="m92.4,186.3l16.4,0l0,6.2l-16.4,0l0,-6.2z"/>
+   </g>
+   <g id="svg_293" node-id="1109">
+    <path id="svg_294" target-y="186.3" target-x="157.8" target-width="16.39999" target-height="6.2" node-id="1018" group-id="11,56" fill-rule="nonzero" fill-opacity="0.15" fill="#6e6e96" d="m157.8,186.3l16.4,0l0,6.2l-16.4,0l0,-6.2z"/>
+   </g>
+   <g id="svg_295" node-id="1110">
+    <path id="svg_296" target-y="239" target-x="84.8" target-width="31.6" target-height="9" node-id="1023" group-id="11,57" fill-rule="nonzero" fill="#ddddeb" d="m84.8,239l31.6,0l0,9l-31.6,0l0,-9z"/>
+    <path id="svg_297" target-y="237.7" target-x="83.3" target-width="34.6" target-height="11.8" node-id="1025" group-id="11,57" fill-rule="nonzero" fill="#6e6e96" d="m116.4,249.5l-32.2,-0.1l-0.8,-0.8l-0.1,-0.6l0,-9l0.1,-0.5l0.8,-0.8l32.7,0l0.8,0.8l0.2,0.5l0,9l-0.5,1.1l-1,0.4zm-30.1,-3l28.6,0l0,-6l-28.6,0l0,6z"/>
+   </g>
+   <g id="svg_298" node-id="1111">
+    <path id="svg_299" target-y="239" target-x="150.4" target-width="31.60001" target-height="9" node-id="1030" group-id="11,58" fill-rule="nonzero" fill="#ddddeb" d="m150.4,239l31.6,0l0,9l-31.6,0l0,-9z"/>
+    <path id="svg_300" target-y="237.5" target-x="148.9" target-width="34.60001" target-height="12" node-id="1032" group-id="11,58" fill-rule="nonzero" fill="#6e6e96" d="m182,249.5l-32.2,-0.1l-0.7,-0.8l-0.2,-0.6l0,-9l0.5,-1l1,-0.5l32.2,0.2l0.8,0.8l0.1,0.5l0,9l-0.4,1.1l-1.1,0.4zm-30.1,-3l28.6,0l0,-6l-28.6,0l0,6z"/>
+   </g>
+   <g id="svg_301" node-id="1112">
+    <path id="svg_302" target-y="239" target-x="169.3" target-width="12.7" target-height="9" node-id="1037" group-id="11,59" fill-rule="nonzero" fill-opacity="0.15" fill="#6e6e96" d="m169.3,239l12.7,0l0,9l-12.7,0l0,-9z"/>
+   </g>
+   <g id="svg_303" node-id="1113">
+    <path id="svg_304" target-y="239" target-x="104.9" target-width="11.5" target-height="9" node-id="1042" group-id="11,60" fill-rule="nonzero" fill-opacity="0.15" fill="#6e6e96" d="m104.9,239l11.5,0l0,9l-11.5,0l0,-9z"/>
+   </g>
+   <g id="svg_305" node-id="1114">
+    <path id="svg_306" target-y="192.5" target-x="93.6" target-width="2.7" target-height="45.3" node-id="1047" group-id="11,61" fill-rule="nonzero" fill-opacity="0.39" fill="#ffffff" d="m93.6,192.5l2.7,0l0,45.3l-2.7,0l0,-45.3z"/>
+   </g>
+   <path id="svg_307" target-y="192.5" target-x="159.2" target-width="2.7" target-height="45.3" node-id="1052" group-id="11,62" fill-rule="nonzero" fill-opacity="0.39" fill="#ffffff" d="m159.2,192.5l2.7,0l0,45.3l-2.7,0l0,-45.3z"/>
+  </g>
+ </g>
+</svg>

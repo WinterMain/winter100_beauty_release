@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" viewBox="0 0 480 560">
+  <rect width="480" height="560" fill="#c9b18a"/>
+  <circle cx="240" cy="224" r="90" fill="rgba(255,255,255,0.55)"/>
+  <text x="240" y="236" font-size="40" font-family="sans-serif" fill="#fff" text-anchor="middle">复古</text>
+  <text x="240" y="520" font-size="24" font-family="sans-serif" fill="rgba(0,0,0,0.45)" text-anchor="middle">示例 1</text>
+</svg>
