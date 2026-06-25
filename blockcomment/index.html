@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Block Comment</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" href="./index.css?t=10">
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
+    <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KZ1S1HBYLX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-KZ1S1HBYLX');
+  </script>
+</head>
+
+<body>
+  <div id="discuss-wrapper"></div>
+  <script>
+    var search = location.search.substring(1);
+    var query = {};
+    search.split('&').forEach(function(item){
+      var values = item.split('=');
+      query[values[0]]=decodeURIComponent(values[1]);
+    });
+    window.blockCommentOptions = {
+      root: '#discuss-wrapper',
+      lang: 'en_US',
+      href: query.href
+    };
+  </script>
+  <script src="./index.js"></script>
+  <script>
+    const root = document.getElementById('discuss-wrapper');
+
+    if(query.themeColor) {
+      root.style = root.style +';--themeColor:'+query.themeColor
+      +`;--themeColorLevel1: rgb(from ${query.themeColor} r g b / .1)`
+      +`;--themeColorLevel2: rgb(from ${query.themeColor} r g b / .8)`;
+    }
+
+    function currentPostMessage() {
+      if (top && top.postMessage) {
+        try {
+          top.postMessage(root.clientHeight.toString(), query.href);
+        } catch (error) {
+          console.log(error);
+        }
+      }
+    }
+
+    function throttle(fn, delay, atleast) {
+      var timer = null;
+      var previous = null;
+      atleast = atleast || delay;
+
+      return function (params) {
+        var now = +new Date();
+
+        if (!previous) {
+          previous = now;
+          fn(params);
+          return;
+        }
+
+        if (now - previous > atleast) {
+          fn(params);
+          // 重置上一次开始时间为本次结束时间
+          previous = now;
+        } else {
+          clearTimeout(timer);
+          timer = setTimeout(function () {
+            fn(params);
+          }, delay);
+        }
+      };
+    }
+
+    var postMessageThrottle = throttle(currentPostMessage, 200);
+    currentPostMessage();
+    document.body.onresize = () => {
+      postMessageThrottle();
+    };
+
+    var beforeVal = root.clientHeight;
+    setInterval(() => {
+      if (beforeVal !== root.clientHeight) {
+        beforeVal = root.clientHeight;
+        postMessageThrottle();
+      }
+    }, 500)
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,171 @@
+.block{display:block!important}
+.inline-block{display:inline-block!important}
+.inline{display:inline!important}
+.flex{display:flex!important}
+.flex-column { flex-direction: column!important; }
+.inline-flex{display:inline-flex!important}
+.flex-col{flex-direction:column!important}
+.items-center{align-items:center!important}
+.flex-1 {flex: 1 1 0 !important}
+.flex-wrap {flex-wrap: wrap !important}
+.hidden { display: none !important; }
+.relative {position: relative !important}
+.fixed {position: fixed !important}
+.absolute {position: absolute !important}
+
+.h-30{height:30px!important}
+.h-40{height:40px!important}
+.h-50{height:50px!important}
+.h-80{height:80px!important}
+.h-300{height:300px!important}
+.h-auto{height:auto!important}
+.h-full{height:100%!important}
+
+.w-30{width:30px!important}
+.w-35{width:35px!important}
+.w-40{width:40px!important}
+.w-50{width:50px!important}
+.w-100{width:100px!important}
+.w-80{width:80px!important}
+.w-180{width:180px!important}
+.w-250{width:250px!important}
+.w-300{width:300px!important}
+.w-auto{width:auto!important}
+.w-full{width:100%!important}
+.min-w-auto {min-width: auto!important}
+
+.mt-0{margin-top:0!important}
+.mt-5{margin-top:5px!important}
+.mt-10{margin-top:10px!important}
+.mt-15{margin-top:15px!important}
+.mt-20{margin-top:20px!important}
+.mt-50{margin-top:50px!important}
+.mt-80{margin-top:80px!important}
+.mt-auto{margin-top:auto!important}
+.ml-0{margin-left:0!important}
+.ml-5{margin-left:5px!important}
+.ml-10{margin-left:10px!important}
+.ml-15{margin-left:15px!important}
+.ml-20{margin-left:20px!important}
+.ml-25{margin-left:25px!important}
+.ml-50{margin-left:50px!important}
+.ml-80{margin-left:80px!important}
+.ml-auto{margin-left:auto!important}
+.mr-5{margin-right:5px!important}
+.mr-10{margin-right:10px!important}
+.mr-15{margin-right:15px!important}
+.mr-20{margin-right:20px!important}
+.mr-40{margin-right:40px!important}
+.mx-auto{margin-left:auto!important;margin-right:auto!important}
+.mx-10{margin-left:10px!important;margin-right:10px!important}
+.mx-15{margin-left:15px!important;margin-right:15px!important}
+.mx-20{margin-left:20px!important;margin-right:20px!important}
+.-mx-10 {margin-left: -10px !important;margin-right: -10px !important}
+.m-auto{margin: auto;};
+
+.pl-0{padding-left:0px!important;}
+.pl-10{padding-left:10px!important;}
+.pl-20{padding-left:20px!important;}
+.pl-30{padding-left:30px!important;}
+.pt-10{padding-top:10px!important;}
+.pt-20{padding-top:20px!important;}
+.pt-40{padding-top:40px!important;}
+.pb-10{padding-bottom:10px!important;}
+.pb-15{padding-bottom:15px!important;}
+.pb-20{padding-bottom:20px!important;}
+.py-5{padding-top:5px!important;padding-bottom:5px!important;}
+.py-10{padding-top:10px!important;padding-bottom:10px!important;}
+.py-15{padding-top:15px!important;padding-bottom:15px!important;}
+.py-20{padding-top:20px!important;padding-bottom:20px!important;}
+.px-30{padding-left:30px!important;padding-right:30px!important;}
+.px-20{padding-left:20px!important;padding-right:20px!important;}
+.p-15 { padding:15px!important; }
+.p-20 { padding:20px!important; }
+
+.text-left {text-align: left !important}
+.text-center {text-align: center !important}
+.text-right {text-align: right !important}
+.text-12 {font-size: 12px !important;line-height: 14px !important}
+.text-14 {font-size: 14px !important;line-height: 20px !important}
+.text-15 {font-size: 15px !important;line-height: 21px !important}
+.text-16 {font-size: 16px !important;line-height: 22px !important}
+.text-18 {font-size: 18px !important;line-height: 24px !important}
+.text-20 {font-size: 20px !important;line-height: 26px !important}
+.text-22 {font-size: 22px !important;line-height: 26px !important}
+.text-24 {font-size: 24px !important;line-height: 28px !important}
+.text-30 {font-size: 30px !important;line-height: 36px !important}
+.text-black {color: var(--color-black) !important}
+.text-white {color: var(--bg-element) !important}
+.text-gray-200 {color: var(--color-gray-200) !important}
+.text-gray-300 {color: var(--color-gray-300) !important}
+.text-gray-400 {color: var(--text-level1) !important}
+.text-gray-500 {color: var(--text-title) !important}
+.text-blue-500 {color: var(--color-blue-500) !important}
+.text-yellow-500 {color: var(--color-yellow-600) !important}
+.hover\:text-blue-50:hover {color: var(--color-blue-50) !important}
+.hover\:text-blue-500:hover {color: var(--color-blue-500) !important}
+
+.font-w400 {font-weight: 400 !important}
+.font-w500 {font-weight: 500 !important}
+.font-w600 {font-weight: 600 !important}
+.font-w700 {font-weight: 700 !important}
+
+.break-all {word-break: break-all !important}
+.overflow-ellipsis {text-overflow: ellipsis !important}
+.whitespace-nowrap {white-space: nowrap !important}
+.overflow-hidden {overflow: hidden !important}
+
+.rounded-0 {border-radius: 0 !important}
+.rounded-4 {border-radius: 4px !important}
+.rounded-none {border-radius: 0 !important}
+.rounded-full {border-radius: 9999px !important}
+
+.transform {
+  --tw-translate-x: 0 !important;
+  --tw-translate-y: 0 !important;
+  --tw-rotate: 0 !important;
+  --tw-skew-x: 0 !important;
+  --tw-skew-y: 0 !important;
+  --tw-scale-x: 1 !important;
+  --tw-scale-y: 1 !important;
+  transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important
+}
+
+.scale-50 {
+  --tw-scale-x: .5 !important;
+  --tw-scale-y: .5 !important
+}
+
+.bg-white {background-color: var(--bg-element) !important}
+
+.cursor-pointer {cursor: pointer !important}
+
+.border { border-width: 1px !important}
+.border-l-4 {border-left-width: 4px !important}
+.border-r-2 {border-right-width: 2px !important}
+.border-b-2 {border-bottom-width: 2px !important}
+.border-gray-300 {border-color: var(--color-gray-300) !important}
+.border-blue-500 {border-color: var(--color-blue-500) !important}
+
+@media(max-width:767px) {
+  .xs\:w-auto {width:auto!important}
+  .xs\:w-full {width:100%!important}
+  .xs\:min-w-auto {min-width: auto !important}
+  .xs\:hidden {display: none !important}
+  .xs\:block {display: block !important}
+  .xs\:inline-block {display: inline-block !important}
+  .xs\:flex{display:flex!important}
+  .xs\:px-10 {padding-left: 10px !important;padding-right: 10px !important;}
+  .xs\:px-15 {padding-left: 15px !important;padding-right: 15px !important;}
+  .xs\:py-0 {padding-top: 0px !important;padding-bottom: 0px !important;}
+  .xs\:pb-0 {padding-bottom: 0px !important;}
+  .xs\:pb-10 {padding-bottom: 15px !important;}
+  .xs\:mx-0{margin-left:0px!important;margin-right:0px!important}
+  .xs\:mx-10{margin-left:10px!important;margin-right:10px!important}
+  .xs\:mt-10{margin-top:10px!important}
+  .xs\:mt-20{margin-top:20px!important}
+  .xs\:ml-0{margin-left:0px!important}
+  .xs\:ml-20{margin-left:20px!important}
+  .xs\:mr-0{margin-right:0px!important}
+  .xs\:justify-between {justify-content: space-between !important}
+}

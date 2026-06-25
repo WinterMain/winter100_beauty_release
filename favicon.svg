@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="badge-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ed3da1" />
+      <stop offset="100%" stop-color="#b06ae0" />
+    </linearGradient>
+    <filter id="badge-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#ed3da1" flood-opacity="0.45" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="170" fill="url(#badge-gradient)" filter="url(#badge-shadow)" />
+  <text
+    x="256"
+    y="318"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-size="286"
+    font-weight="800"
+    font-family="ZCOOL KuaiLe, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">&#39068;</text>
+</svg>
