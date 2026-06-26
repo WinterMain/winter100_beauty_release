@@ -1,1 +1,0 @@
-import{be as a,bf as s,j as i,h as f,G as l}from"./CDdSJ3Px.js";function u(r){const e=String(r).match(/-(\d+)$/);return e?Number(e[1]):0}function c(r,e){return r!=null&&r.length?e===l?[...r].sort((t,n)=>{const o=u(n.id)-u(t.id);return o!==0?o:n.id.localeCompare(t.id)}):r:[]}function S(r){const e=a(),{sort:t}=s(e);return i(()=>c(f(r),t.value))}export{c as s,S as u};

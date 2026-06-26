@@ -1,0 +1,1 @@
+import{bj as a,bk as s,k as i,i as l,G as c}from"./up7vKLLw.js";function u(r){const t=String(r).match(/-(\d+)$/);return t?Number(t[1]):0}function f(r,t){return r!=null&&r.length?t===c?[...r].sort((e,n)=>{const o=u(n.id)-u(e.id);return o!==0?o:n.id.localeCompare(e.id)}):r:[]}function S(r){const t=a(),{sort:e}=s(t);return i(()=>f(l(r),e.value))}export{f as s,S as u};
