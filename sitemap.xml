@@ -7,13 +7,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://beauty.winter100.com/?lang=en_US" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://beauty.winter100.com/" />
         <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-65.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/pure-65.jpg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-64.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://beauty.winter100.com/gallery/pure/pure-64.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-63.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://beauty.winter100.com/gallery/chunyu/thumbs/chunyu-10.webp</image:loc>
@@ -219,9 +219,6 @@
         </image:image>
         <image:image>
             <image:loc>https://beauty.winter100.com/gallery/sporty/thumbs/sporty-37.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-65.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-64.webp</image:loc>
@@ -929,9 +926,6 @@
         </image:image>
         <image:image>
             <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-64.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-65.webp</image:loc>
         </image:image>
         <xhtml:link rel="alternate" hreflang="zh-hans" href="https://beauty.winter100.com/c/pure?lang=zh_Hans_CN" />
         <xhtml:link rel="alternate" hreflang="zh-hant" href="https://beauty.winter100.com/c/pure?lang=zh_Hant_HK" />
@@ -11267,52 +11261,6 @@
         <xhtml:link rel="alternate" hreflang="zh-hant" href="https://beauty.winter100.com/p/pure/pure-64?lang=zh_Hant_HK" />
         <xhtml:link rel="alternate" hreflang="en" href="https://beauty.winter100.com/p/pure/pure-64?lang=en_US" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://beauty.winter100.com/p/pure/pure-64" />
-    </url>
-    <url>
-        <loc>https://beauty.winter100.com/p/pure/pure-65</loc>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-65.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-01.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-02.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-04.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-05.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-06.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-07.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-08.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-09.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-10.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-11.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-12.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://beauty.winter100.com/gallery/pure/thumbs/pure-13.webp</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://beauty.winter100.com/p/pure/pure-65?lang=zh_Hans_CN" />
-        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://beauty.winter100.com/p/pure/pure-65?lang=zh_Hant_HK" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://beauty.winter100.com/p/pure/pure-65?lang=en_US" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://beauty.winter100.com/p/pure/pure-65" />
     </url>
     <url>
         <loc>https://beauty.winter100.com/p/retro/retro-01</loc>
@@ -23137,4 +23085,4 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://beauty.winter100.com/p/yoga/yoga-71" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2026-07-01T05:33:51.498Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2026-07-01T06:59:26.220Z -->
